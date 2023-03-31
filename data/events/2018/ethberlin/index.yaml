@@ -4,7 +4,7 @@ types: [ hackathon, conference ]
 date: "2018-09-07"
 days: 3
 venues:
-  - name: Factory Berlin Mitte
+  - name: Factory Mitte
     address: Rheinsberger Str. 76/77, 10115 Berlin, Germany
-  - name: Factory Berlin
+  - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany
