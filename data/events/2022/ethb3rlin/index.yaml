@@ -1,5 +1,8 @@
-name: ETHBerlin³ 2023
+name: ETHBerlin³
 series: ethberlin
 types: [ hackathon ]
 date: "2022-09-16"
 days: 3
+venues:
+  - name: Factory Berlin
+    address: Lohmühlenstraße 65, 12435 Berlin, Germany

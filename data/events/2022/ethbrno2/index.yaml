@@ -1,5 +1,8 @@
-name: ETHBrno² 2022
+name: ETHBrno²
 series: ethbrno
 types: [ hackathon ]
 date: "2022-11-11"
 days: 3
+venues:
+  - name: ImpactHub Brno
+    address: Cyrilská 7, 602 00 Brno, Czech Republic
