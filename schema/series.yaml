@@ -9,3 +9,10 @@ properties:
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  place:
+    type: string
+  status:
+    type: string
+    enum:
+      - active
+      - retired
