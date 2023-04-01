@@ -1,0 +1,165 @@
+{
+  "series": [
+    {
+      "id": "ethdam",
+      "name": "ETHDam",
+      "place": "Amsterdam, Netherlands"
+    },
+    {
+      "id": "ethwarsaw",
+      "name": "ETHWarsaw",
+      "place": "Warsaw, Poland"
+    },
+    {
+      "id": "ethporto",
+      "name": "ETHPorto",
+      "place": "Porto, Portugal"
+    },
+    {
+      "id": "ethbrno",
+      "name": "ETHBrno",
+      "place": "Brno, Czech Republic"
+    },
+    {
+      "id": "devcon",
+      "name": "Devcon"
+    },
+    {
+      "id": "ethprague",
+      "name": "ETHPrague",
+      "place": "Prague, Czech Republic"
+    },
+    {
+      "id": "ethereumzurich",
+      "name": "EthereumZurich",
+      "place": "Zurich, Switzerland"
+    },
+    {
+      "id": "ethberlin",
+      "name": "ETHBerlin",
+      "place": "Berlin, Germany"
+    }
+  ],
+  "events": [
+    {
+      "id": "ethberlin",
+      "name": "ETHBerlin",
+      "series": "ethberlin",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2018-09-07",
+      "days": 3,
+      "venues": [
+        {
+          "name": "Factory Mitte",
+          "address": "Rheinsberger Str. 76/77, 10115 Berlin, Germany"
+        },
+        {
+          "name": "Factory Görlitzer",
+          "address": "Lohmühlenstraße 65, 12435 Berlin, Germany"
+        }
+      ]
+    },
+    {
+      "id": "protocol-berg",
+      "name": "Protocol Berg",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-09-15",
+      "days": 1
+    },
+    {
+      "id": "ethprague-2023",
+      "name": "ETHPrague 2023",
+      "series": "ethprague",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2023-06-09",
+      "days": 3
+    },
+    {
+      "id": "devcon1",
+      "name": "DΞVCON1",
+      "series": "devcon",
+      "types": [
+        "conference"
+      ],
+      "date": "2015-11-09",
+      "days": 5
+    },
+    {
+      "id": "ethprague-2022",
+      "name": "ETHPrague 2022",
+      "series": "ethprague",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2022-06-09",
+      "days": 3,
+      "venues": [
+        {
+          "name": "Paralelní Polis",
+          "address": "Dělnická 475/43, 170 00 Praha 7 Holešovice, Czech Republic"
+        },
+        {
+          "name": "La fabrika",
+          "address": "Komunardů 1001, 170 00 Praha 7 Holešovice, Czech Republic"
+        }
+      ]
+    },
+    {
+      "id": "ethb3rlin",
+      "name": "ETHBerlin³",
+      "series": "ethberlin",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2022-09-16",
+      "days": 3,
+      "venues": [
+        {
+          "name": "Factory Görlitzer",
+          "address": "Lohmühlenstraße 65, 12435 Berlin, Germany"
+        }
+      ]
+    },
+    {
+      "id": "ethbrno2",
+      "name": "ETHBrno²",
+      "series": "ethbrno",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2022-11-11",
+      "days": 3,
+      "venues": [
+        {
+          "name": "ImpactHub Brno",
+          "address": "Cyrilská 7, 602 00 Brno, Czech Republic"
+        }
+      ]
+    },
+    {
+      "id": "ethberlin-zwei",
+      "name": "ETHBerlin zwei",
+      "series": "ethberlin",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2018-08-23",
+      "days": 3,
+      "venues": [
+        {
+          "name": "Factory Görlitzer",
+          "address": "Lohmühlenstraße 65, 12435 Berlin, Germany"
+        }
+      ]
+    }
+  ]
+}
