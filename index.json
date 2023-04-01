@@ -51,6 +51,8 @@
       ],
       "date": "2018-09-07",
       "days": 3,
+      "place": "Berlin, Germany",
+      "region": "europe",
       "venues": [
         {
           "name": "Factory Mitte",
@@ -69,7 +71,9 @@
         "conference"
       ],
       "date": "2023-09-15",
-      "days": 1
+      "days": 1,
+      "place": "Berlin, Germany",
+      "region": "europe"
     },
     {
       "id": "ethprague-2023",
@@ -80,7 +84,9 @@
         "conference"
       ],
       "date": "2023-06-09",
-      "days": 3
+      "days": 3,
+      "place": "Prague, Czech Republic",
+      "region": "europe"
     },
     {
       "id": "devcon1",
@@ -90,6 +96,8 @@
         "conference"
       ],
       "date": "2015-11-09",
+      "place": "London, United Kingdom",
+      "region": "europe",
       "days": 5
     },
     {
@@ -102,6 +110,8 @@
       ],
       "date": "2022-06-09",
       "days": 3,
+      "place": "Prague, Czech Republic",
+      "region": "europe",
       "venues": [
         {
           "name": "Paralelní Polis",
@@ -122,6 +132,8 @@
       ],
       "date": "2022-09-16",
       "days": 3,
+      "place": "Berlin, Germany",
+      "region": "europe",
       "venues": [
         {
           "name": "Factory Görlitzer",
@@ -138,12 +150,49 @@
       ],
       "date": "2022-11-11",
       "days": 3,
+      "place": "Brno, Czech Republic",
+      "region": "europe",
       "venues": [
         {
           "name": "ImpactHub Brno",
           "address": "Cyrilská 7, 602 00 Brno, Czech Republic"
         }
-      ]
+      ],
+      "attendees": 120,
+      "hackathon": {
+        "hackers": 80,
+        "hacker_application_platform": "cryptpad",
+        "projects": 13,
+        "project_submission_platform": "devfolio",
+        "project_submission_url": "https://ethbrno.devfolio.co/",
+        "prizes_total": "6500 USD",
+        "prizes": [
+          {
+            "name": "Open track - quadratic voting [1st place]",
+            "amount": "2000 USD"
+          },
+          {
+            "name": "Open track - quadratic voting [2st place]",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "Open track - quadratic voting [3st place]",
+            "amount": "500 USD"
+          },
+          {
+            "name": "Meta Awards - Innovation",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "Meta Awards - Best smart-contract",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "Meta Awards - Design",
+            "amount": "500 USD"
+          }
+        ]
+      }
     },
     {
       "id": "ethberlin-zwei",
@@ -154,6 +203,8 @@
       ],
       "date": "2018-08-23",
       "days": 3,
+      "place": "Berlin, Germany",
+      "region": "europe",
       "venues": [
         {
           "name": "Factory Görlitzer",
