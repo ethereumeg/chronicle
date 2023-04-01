@@ -2,6 +2,7 @@ name: DΞVCON1
 series: devcon
 types: [ conference ]
 date: "2015-11-09"
-place: London, United Kingdom
+place: London
+country: gb
 region: europe
 days: 5

@@ -3,8 +3,9 @@ series: ethberlin
 types: [ hackathon ]
 date: "2018-08-23"
 days: 3
-place: Berlin, Germany
+place: Berlin
 region: europe
+country: de
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany

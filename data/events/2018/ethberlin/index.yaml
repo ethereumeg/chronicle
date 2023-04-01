@@ -3,8 +3,9 @@ series: ethberlin
 types: [ hackathon, conference ]
 date: "2018-09-07"
 days: 3
-place: Berlin, Germany
+place: Berlin
 region: europe
+country: de
 venues:
   - name: Factory Mitte
     address: Rheinsberger Str. 76/77, 10115 Berlin, Germany

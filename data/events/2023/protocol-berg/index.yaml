@@ -2,5 +2,6 @@ name: Protocol Berg
 types: [ conference ]
 date: "2023-09-15"
 days: 1
-place: Berlin, Germany
+place: Berlin
 region: europe
+country: de

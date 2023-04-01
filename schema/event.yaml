@@ -8,6 +8,7 @@ required:
   - days
   - place
   - region
+  - country
 properties:
   id:
     type: string
@@ -40,6 +41,9 @@ properties:
       - latam
       - africa
       - australia
+  country:
+    type: string
+    pattern: "^[a-z]{2}$"
   venues:
     type: array
     items:

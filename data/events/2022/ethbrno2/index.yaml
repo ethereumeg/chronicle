@@ -3,8 +3,9 @@ series: ethbrno
 types: [ hackathon ]
 date: "2022-11-11"
 days: 3
-place: Brno, Czech Republic
+place: Brno
 region: europe
+country: cz
 venues:
   - name: ImpactHub Brno
     address: Cyrilská 7, 602 00 Brno, Czech Republic
