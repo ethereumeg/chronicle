@@ -51,8 +51,9 @@
       ],
       "date": "2018-09-07",
       "days": 3,
-      "place": "Berlin, Germany",
+      "place": "Berlin",
       "region": "europe",
+      "country": "de",
       "venues": [
         {
           "name": "Factory Mitte",
@@ -72,8 +73,9 @@
       ],
       "date": "2023-09-15",
       "days": 1,
-      "place": "Berlin, Germany",
-      "region": "europe"
+      "place": "Berlin",
+      "region": "europe",
+      "country": "de"
     },
     {
       "id": "ethprague-2023",
@@ -85,8 +87,9 @@
       ],
       "date": "2023-06-09",
       "days": 3,
-      "place": "Prague, Czech Republic",
-      "region": "europe"
+      "place": "Prague",
+      "region": "europe",
+      "country": "cz"
     },
     {
       "id": "devcon1",
@@ -96,7 +99,8 @@
         "conference"
       ],
       "date": "2015-11-09",
-      "place": "London, United Kingdom",
+      "place": "London",
+      "country": "gb",
       "region": "europe",
       "days": 5
     },
@@ -110,8 +114,9 @@
       ],
       "date": "2022-06-09",
       "days": 3,
-      "place": "Prague, Czech Republic",
+      "place": "Prague",
       "region": "europe",
+      "country": "cz",
       "venues": [
         {
           "name": "Paralelní Polis",
@@ -132,8 +137,9 @@
       ],
       "date": "2022-09-16",
       "days": 3,
-      "place": "Berlin, Germany",
+      "place": "Berlin",
       "region": "europe",
+      "country": "de",
       "venues": [
         {
           "name": "Factory Görlitzer",
@@ -150,8 +156,9 @@
       ],
       "date": "2022-11-11",
       "days": 3,
-      "place": "Brno, Czech Republic",
+      "place": "Brno",
       "region": "europe",
+      "country": "cz",
       "venues": [
         {
           "name": "ImpactHub Brno",
@@ -203,8 +210,9 @@
       ],
       "date": "2018-08-23",
       "days": 3,
-      "place": "Berlin, Germany",
+      "place": "Berlin",
       "region": "europe",
+      "country": "de",
       "venues": [
         {
           "name": "Factory Görlitzer",
