@@ -3,6 +3,29 @@ series: ethbrno
 types: [ hackathon ]
 date: "2022-11-11"
 days: 3
+place: Brno, Czech Republic
+region: europe
 venues:
   - name: ImpactHub Brno
     address: Cyrilská 7, 602 00 Brno, Czech Republic
+attendees: 120
+hackathon:
+  hackers: 80
+  hacker_application_platform: cryptpad
+  projects: 13
+  project_submission_platform: devfolio
+  project_submission_url: https://ethbrno.devfolio.co/
+  prizes_total: 6500 USD
+  prizes:
+    - name: Open track - quadratic voting [1st place]
+      amount: 2000 USD
+    - name: Open track - quadratic voting [2st place]
+      amount: 1000 USD
+    - name: Open track - quadratic voting [3st place]
+      amount: 500 USD
+    - name: Meta Awards - Innovation
+      amount: 1000 USD
+    - name: Meta Awards - Best smart-contract
+      amount: 1000 USD
+    - name: Meta Awards - Design
+      amount: 500 USD

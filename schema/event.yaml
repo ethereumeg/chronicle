@@ -6,6 +6,8 @@ required:
   - types
   - date
   - days
+  - place
+  - region
 properties:
   id:
     type: string
@@ -27,6 +29,17 @@ properties:
     pattern: "^\\d{4}-\\d{2}-\\d{2}$"
   days:
     type: number
+  place:
+    type: string
+  region:
+    type: string
+    enum:
+      - europe
+      - asia
+      - north-america
+      - latam
+      - africa
+      - australia
   venues:
     type: array
     items:
@@ -39,3 +52,44 @@ properties:
           type: string
         address:
           type: string
+  attendees:
+    type: number
+  hackathon:
+    type: object
+    additionalProperties: false
+    properties:
+      hackers:
+        type: number
+      hacker_application_platform:
+        type: string
+        enum:
+          - cryptpad
+          - google-forms
+          - typeform
+          - tally
+      projects:
+        type: number
+      project_submission_platform:
+        type: string
+        enum:
+          - devfolio
+          - taikai
+          - devpost
+          - custom
+      project_submission_url:
+        type: string
+        format: uri
+      prizes_total:
+        type: string
+        pattern: "^[\\d\\.]+ [A-Z]{3}$"
+      prizes:
+        type: array
+        items:
+          type: object
+          additionalProperties: false
+          properties:
+            name:
+              type: string
+            amount:
+              type: string
+              pattern: "^[\\d\\.]+ [A-Z]{3}$"
