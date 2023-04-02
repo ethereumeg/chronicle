@@ -1,4 +1,4 @@
-name: ETHDenver
+name: ETHDenver 2020
 series: ethdenver
 types: [ hackathon, conference ]
 date: "2020-02-14"
@@ -6,6 +6,7 @@ days: 4
 place: Denver
 region: us-ca
 country: us
+aftermovie: https://www.youtube.com/watch?v=P69jKz3s9ck
 hackathon:
   projects: 19
   project_submission_platform: devfolio

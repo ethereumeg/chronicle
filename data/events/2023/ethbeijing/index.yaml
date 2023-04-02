@@ -1,5 +1,4 @@
 name: ETHBeijing
-series: ethbeijing
 types: [ hackathon ]
 date: "2023-04-05"
 days: 4
@@ -9,3 +8,6 @@ country: cn
 hackathon:
   project_submission_platform: dorahacks
   project_submission_url: https://dorahacks.io/hackathon/eth-beijing-2023
+links:
+  web: https://www.ethbeijing.xyz/
+  twitter: https://twitter.com/PKUBlockchain

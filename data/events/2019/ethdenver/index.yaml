@@ -1,0 +1,14 @@
+name: ETHDenver
+series: ethdenver
+types: [ conference, hackathon ]
+date: "2019-02-15"
+days: 3
+place: Denver
+region: us-ca
+country: us
+venues:
+  - name: The Sports Castle
+    address: 1000 Broadway, Denver, CO 80203
+attendees: 1500
+links:
+  web: https://ethdenver.wixsite.com/ethdenver/ethdenver-2019
