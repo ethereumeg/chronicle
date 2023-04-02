@@ -6,3 +6,8 @@ days: 5
 place: Belgrade
 region: europe
 country: rs
+attendees: 1200
+hackathon:
+  hackers: 300
+links:
+  web: https://ethbelgrade.rs/

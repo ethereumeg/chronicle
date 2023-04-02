@@ -1,0 +1,13 @@
+name: ETHSeattle 2023
+series: ethseattle
+types: [ conference ]
+date: "2022-07-08"
+days: 1
+place: Seattle
+region: us-ca
+country: us
+venues:
+  - name: Art Marble 21
+    address: 731 Westlake Ave N, Seattle, WA 98109
+links:
+  web: https://2022.ethseattle.org/

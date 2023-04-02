@@ -1,0 +1,18 @@
+name: ETHSingapore
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2018-12-07"
+days: 3
+place: Singapore
+region: asia
+country: sg
+venues:
+  - name: thebridge
+    address: 2 Science Park Drive Level 1, Singapore 118222
+links:
+  url: https://ethsingapore.co/
+  twitter: https://twitter.com/ethsingapore
+hackathon:
+  projects: 44
+  project_submission_platform: devpost
+  project_submission_url: https://ethsingapore.devpost.com/

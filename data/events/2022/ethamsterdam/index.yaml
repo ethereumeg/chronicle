@@ -1,0 +1,13 @@
+name: ETHAmsterdam
+series: ethglobal
+types: [ hackathon ]
+date: "2022-04-22"
+days: 3
+place: Amsterdam
+region: europe
+country: nl
+venues:
+  - name: Beurs van Berlage
+    address: Damrak 243, 1012 ZJ, Amsterdam
+links:
+  web: https://amsterdam.ethglobal.com/

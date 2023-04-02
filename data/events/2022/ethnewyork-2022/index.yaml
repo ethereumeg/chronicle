@@ -1,0 +1,13 @@
+name: ETHNewYork 2022
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2022-06-24"
+days: 3
+place: New York
+region: us-ca
+country: us
+venues:
+  - name: AMetropolitan Pavillion
+    address: 125 W 18th St, New York, NY
+links:
+  web: https://nyc.ethglobal.co/

@@ -1,0 +1,17 @@
+name: ETHParis
+series: ethglobal
+types: [ hackathon ]
+date: "2019-03-08"
+days: 3
+place: Paris
+region: europe
+country: fr
+venues:
+  - name: "42"
+    address: 96 Bd Bessières, 75017 Paris
+links:
+  web: https://ethparis.com/
+hackathon:
+  projects: 45
+  project_submission_platform: devpost
+  project_submission_url: https://ethparis.devpost.com/

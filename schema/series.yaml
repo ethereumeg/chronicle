@@ -9,6 +9,10 @@ properties:
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  aliases:
+    type: array
+    items:
+      type: string
   place:
     type: string
   region:
@@ -16,7 +20,7 @@ properties:
     enum:
       - europe
       - asia
-      - north-america
+      - us-ca
       - latam
       - africa
       - australia

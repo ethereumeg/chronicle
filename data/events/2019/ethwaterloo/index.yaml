@@ -1,0 +1,19 @@
+name: ETHWaterloo
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2019-11-08"
+days: 3
+place: Waterloo
+region: us-ca
+country: ca
+venues:
+  - name: Centre for International Governance Innovation
+    address: 67 Erb St W, Waterloo, ON N2L 6C2
+attendees: 500
+links:
+  web: https://ethwaterloo.com/
+hackathon:
+  projects: 72
+  project_submission_platform: devpost
+  project_submission_url: https://ethwaterloo.devpost.com/
+  hacker_application_platform: airtable

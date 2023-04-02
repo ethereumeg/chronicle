@@ -1,0 +1,13 @@
+name: ETHBogota
+series: ethglobal
+types: [ hackathon ]
+date: "2022-10-07"
+days: 3
+place: Bogota
+region: latam
+country: co
+venues:
+  - name: Agora Bogotá
+    address: "CAc. 24 #38-47, Bogotá"
+links:
+  web: https://bogota.ethglobal.com/

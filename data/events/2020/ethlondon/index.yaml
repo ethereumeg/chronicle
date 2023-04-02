@@ -1,0 +1,14 @@
+name: ETHLondonUK
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2020-02-28"
+days: 3
+place: London
+region: europe
+country: gb
+links:
+  web: https://ethlondon.com/
+hackathon:
+  projects: 50
+  project_submission_platform: devpost
+  project_submission_url: https://ethlondon.devpost.com/

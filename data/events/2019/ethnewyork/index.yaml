@@ -1,0 +1,12 @@
+name: ETHNewYork
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2019-05-17"
+days: 3
+place: New York
+region: us-ca
+country: us
+hackathon:
+  projects: 64
+  project_submission_platform: devpost
+  project_submission_url: https://ethnewyork.devpost.com/

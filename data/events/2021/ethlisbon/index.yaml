@@ -1,0 +1,12 @@
+name: ETHLisbon
+series: ethlisbon
+types: [ hackathon ]
+date: "2021-10-22"
+days: 3
+place: Lisbon
+region: europe
+country: pt
+hackathon:
+  projects: 64
+  project_submission_platform: devpost
+  project_submission_url: https://ethlisbon.devpost.com/

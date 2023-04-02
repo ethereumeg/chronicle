@@ -1,0 +1,18 @@
+name: ETHCapeTown
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2019-03-08"
+days: 3
+place: Cape Town
+region: africa
+country: za
+venues:
+  - name: The Lookout Waterfront
+    address: Granger Bay Blvd, V & A Waterfront, Cape Town, 8002
+links:
+  web: https://ethcapetown.com/
+  twitter: https://twitter.com/EthCapeTown
+hackathon:
+  projects: 33
+  project_submission_platform: devpost
+  project_submission_url: https://ethcapetown.devpost.com/

@@ -1,0 +1,12 @@
+name: ETHTaipei 2023
+series: ethtaipei
+types: [ hackathon, conference ]
+date: "2023-04-21"
+days: 5
+place: Taipei
+region: asia
+country: tw
+attendees: 700
+venues:
+  - name: POPOP Taipei
+    address: No. 13, Section 2, Nangang Rd, Nangang District, Taipei City, 115

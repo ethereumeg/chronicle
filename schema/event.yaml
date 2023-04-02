@@ -73,6 +73,9 @@ properties:
           - google-forms
           - typeform
           - tally
+          - airtable
+          - ethglobal
+          - custom
       projects:
         type: number
       project_submission_platform:
@@ -81,6 +84,7 @@ properties:
           - devfolio
           - taikai
           - devpost
+          - ethglobal
           - custom
       project_submission_url:
         type: string
