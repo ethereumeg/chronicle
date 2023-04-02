@@ -1,0 +1,15 @@
+name: ETHWaterloo
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2017-10-13"
+days: 3
+place: Waterloo
+region: us-ca
+country: ca
+links:
+  web: https://ethwaterloo.com/
+hackathon:
+  projects: 72
+  project_submission_platform: devpost
+  project_submission_url: https://ethwaterloo.devpost.com/
+  hacker_application_platform: airtable

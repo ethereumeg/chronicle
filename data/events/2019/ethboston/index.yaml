@@ -1,0 +1,15 @@
+name: ETHBoston
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2019-09-06"
+days: 3
+place: Boston
+region: us-ca
+country: us
+links:
+  web: https://www.ethboston.xyz/
+  twitter: https://twitter.com/ETHBoston
+hackathon:
+  projects: 55
+  project_submission_platform: devpost
+  project_submission_url: https://ethboston.devpost.com/

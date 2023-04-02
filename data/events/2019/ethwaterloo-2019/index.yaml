@@ -1,4 +1,4 @@
-name: ETHWaterloo
+name: ETHWaterloo 2019
 series: ethglobal
 types: [ hackathon, conference ]
 date: "2019-11-08"
@@ -13,7 +13,7 @@ attendees: 500
 links:
   web: https://ethwaterloo.com/
 hackathon:
-  projects: 72
+  projects: 65
   project_submission_platform: devpost
-  project_submission_url: https://ethwaterloo.devpost.com/
+  project_submission_url: https://ethwaterloo2.devpost.com/
   hacker_application_platform: airtable
