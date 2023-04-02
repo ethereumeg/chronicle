@@ -22,6 +22,9 @@ properties:
   series:
     type: string
     pattern: "^[a-z0-9-]+$"
+  family:
+    type: string
+    pattern: "^[a-z0-9-]+$"    
   types:
     type: array
     items:
@@ -32,7 +35,7 @@ properties:
         - collaborative-week
   date:
     type: string
-    pattern: "^\\d{4}-\\d{2}-\\d{2}$"
+    pattern: "^\\d{4}-[\\d\\?]{2}-[\\d\\?]{2}$"
   days:
     type: number
   place:
@@ -64,6 +67,8 @@ properties:
           type: string
   attendees:
     type: number
+  host_name:
+    type: string
   hackathon:
     type: object
     additionalProperties: false

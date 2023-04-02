@@ -1,0 +1,10 @@
+name: Devcon two
+aliases:
+  - Devcon 2
+series: devcon
+types: [ conference ]
+date: "2016-09-19"
+days: 3
+place: Shanghai
+country: cn
+region: asia

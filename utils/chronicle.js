@@ -3,6 +3,7 @@ import * as path from "https://deno.land/std@0.179.0/path/mod.ts";
 import * as yaml from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 
 export const CHRONICLE_COLLECTIONS = [
+  ["families", { schema: "family" }],
   ["series", { schema: "series" }],
   ["events", { schema: "event", grouping: true }],
 ];

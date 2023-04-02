@@ -7,6 +7,7 @@ place: Berlin
 region: europe
 country: de
 attendees: 1200
+host_name: Department of Decentralization
 venues:
   - name: Factory Mitte
     address: Rheinsberger Str. 76/77, 10115 Berlin, Germany

@@ -7,6 +7,9 @@ place: Amsterdam
 region: europe
 country: nl
 attendees: 800
+venues:
+  - name: Pakhuis de Zwijger
+    address: Piet Heinkade 179, 1019 HC Amsterdam
 hackathon:
   hacker_application_platform: google-forms
   project_submission_platform: taikai

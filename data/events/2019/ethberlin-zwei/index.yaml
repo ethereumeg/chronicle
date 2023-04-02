@@ -6,6 +6,7 @@ days: 3
 place: Berlin
 region: europe
 country: de
+host_name: Department of Decentralization
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany

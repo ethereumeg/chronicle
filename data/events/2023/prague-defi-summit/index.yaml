@@ -5,6 +5,8 @@ days: 2
 place: Prague
 region: europe
 country: cz
+attendees: 750
+host_name: Paralelní Polis
 links:
   web: https://praguedefisummit.com/
   twitter: https://twitter.com/PragueDefi

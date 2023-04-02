@@ -1,5 +1,5 @@
 name: ETHMexico
-series: ethglobal
+family: ethglobal
 types: [ hackathon, conference ]
 date: "2022-08-19"
 days: 3

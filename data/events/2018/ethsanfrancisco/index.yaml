@@ -1,5 +1,5 @@
 name: ETHSanFrancisco
-series: ethglobal
+family: ethglobal
 types: [ hackathon, conference ]
 date: "2018-10-05"
 days: 3

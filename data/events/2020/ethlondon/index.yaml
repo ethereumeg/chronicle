@@ -1,5 +1,5 @@
 name: ETHLondonUK
-series: ethglobal
+family: ethglobal
 types: [ hackathon, conference ]
 date: "2020-02-28"
 days: 3
