@@ -136,10 +136,6 @@
       }
     },
     {
-      "id": "devconnect",
-      "name": "Devconnect"
-    },
-    {
       "id": "dappcon",
       "name": "DappCon",
       "place": "Berlin",
@@ -178,7 +174,12 @@
       "country": "us",
       "links": {
         "web": "https://www.ethdenver.com/",
-        "twitter": "https://twitter.com/EthereumDenver"
+        "twitter": "https://twitter.com/EthereumDenver",
+        "telegram": "https://t.me/ETHDenver",
+        "youtube": "https://www.youtube.com/channel/UCgz9NU06t_FkT0Py1Vadczw",
+        "instagram": "http://instagram.com/ethdenver",
+        "facebook": "https://www.facebook.com/ETHDenver/",
+        "medium": "https://medium.com/ethdenver"
       }
     },
     {
@@ -209,7 +210,10 @@
       "region": "europe",
       "country": "es",
       "links": {
-        "twitter": "https://twitter.com/eth_barcelona"
+        "web": "https://ethbarcelona.com/",
+        "twitter": "https://twitter.com/eth_barcelona",
+        "instagram": "https://www.instagram.com/ethbarcelona/",
+        "telegram": "https://t.me/ethbarcelona"
       }
     },
     {
@@ -287,17 +291,6 @@
       }
     },
     {
-      "id": "ethbeijing",
-      "name": "ETHBeijing",
-      "place": "Beijing",
-      "region": "asia",
-      "country": "cn",
-      "links": {
-        "web": "https://www.ethbeijing.xyz/",
-        "twitter": "https://twitter.com/PKUBlockchain"
-      }
-    },
-    {
       "id": "ethseattle",
       "name": "ETHSeattle",
       "place": "Seattle",
@@ -360,6 +353,20 @@
       "links": {
         "web": "https://2018.dappcon.io/"
       }
+    },
+    {
+      "id": "ethcc1",
+      "name": "EthCC 1",
+      "series": "ethcc",
+      "types": [
+        "conference"
+      ],
+      "date": "2018-03-08",
+      "days": 3,
+      "place": "Paris",
+      "region": "europe",
+      "country": "fr",
+      "aftermovie": "https://www.youtube.com/watch?v=n_WhlvF3vbI"
     },
     {
       "id": "ethberlin",
@@ -527,7 +534,34 @@
       "days": 3,
       "place": "Paris",
       "region": "europe",
-      "country": "fr"
+      "country": "fr",
+      "aftermovie": "https://www.youtube.com/watch?v=jbevpH2Pcxs"
+    },
+    {
+      "id": "ethsafari-2023",
+      "name": "ETHSafari 2023",
+      "series": "ethsafari",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-09-18",
+      "days": 7,
+      "place": "Nairobi",
+      "region": "africa",
+      "country": "ke"
+    },
+    {
+      "id": "ethbrno3",
+      "name": "ETHBrno×3",
+      "series": "ethbrno",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2023-11",
+      "days": 3,
+      "place": "Brno",
+      "region": "europe",
+      "country": "cz"
     },
     {
       "id": "ethtaipei-2023",
@@ -646,6 +680,25 @@
       }
     },
     {
+      "id": "ethsamba-hack",
+      "name": "ETHSamba Hack",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2023-03-31",
+      "days": 3,
+      "place": "Rio de Janeiro",
+      "region": "latam",
+      "country": "br",
+      "links": {
+        "web": "https://www.ethsamba.org/",
+        "twitter": "https://twitter.com/ethsamba",
+        "discord": "https://discord.gg/HBkCnM7HMZ",
+        "telegram": "https://t.me/+htg-0sMGKuU4ZmY0"
+      }
+    },
+    {
       "id": "ethglobal-tokyo",
       "name": "ETHGlobal Tokyo",
       "family": "ethglobal",
@@ -734,7 +787,8 @@
       "days": 3,
       "place": "Berlin",
       "region": "europe",
-      "country": "de"
+      "country": "de",
+      "attendees": 900
     },
     {
       "id": "ethdenver-2023",
@@ -1012,6 +1066,19 @@
       }
     },
     {
+      "id": "ethbarcelona-2023",
+      "name": "ETHBarcelona 2023",
+      "series": "ethbarcelona",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-07-05",
+      "days": 3,
+      "place": "Barcelona",
+      "region": "europe",
+      "country": "es"
+    },
+    {
       "id": "prague-defi-summit",
       "name": "Prague DeFi Summit",
       "types": [
@@ -1034,7 +1101,6 @@
     {
       "id": "ethbeijing",
       "name": "ETHBeijing",
-      "series": "ethbeijing",
       "types": [
         "hackathon"
       ],
@@ -1046,6 +1112,10 @@
       "hackathon": {
         "project_submission_platform": "dorahacks",
         "project_submission_url": "https://dorahacks.io/hackathon/eth-beijing-2023"
+      },
+      "links": {
+        "web": "https://www.ethbeijing.xyz/",
+        "twitter": "https://twitter.com/PKUBlockchain"
       }
     },
     {
@@ -1080,25 +1150,6 @@
       "region": "asia"
     },
     {
-      "id": "ethdenver",
-      "name": "ETHDenver",
-      "series": "ethdenver",
-      "types": [
-        "hackathon",
-        "conference"
-      ],
-      "date": "2020-02-14",
-      "days": 4,
-      "place": "Denver",
-      "region": "us-ca",
-      "country": "us",
-      "hackathon": {
-        "projects": 19,
-        "project_submission_platform": "devfolio",
-        "project_submission_url": "https://ethdenver.devfolio.co/"
-      }
-    },
-    {
       "id": "ethlondon",
       "name": "ETHLondonUK",
       "family": "ethglobal",
@@ -1118,6 +1169,40 @@
         "projects": 50,
         "project_submission_platform": "devpost",
         "project_submission_url": "https://ethlondon.devpost.com/"
+      }
+    },
+    {
+      "id": "ethcc3",
+      "name": "EthCC 3",
+      "series": "ethcc",
+      "types": [
+        "conference"
+      ],
+      "date": "2020-03-03",
+      "days": 3,
+      "place": "Paris",
+      "region": "europe",
+      "country": "fr",
+      "aftermovie": "https://www.youtube.com/watch?v=Vret5wmBG8M"
+    },
+    {
+      "id": "ethdenver-2020",
+      "name": "ETHDenver 2020",
+      "series": "ethdenver",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2020-02-14",
+      "days": 4,
+      "place": "Denver",
+      "region": "us-ca",
+      "country": "us",
+      "aftermovie": "https://www.youtube.com/watch?v=P69jKz3s9ck",
+      "hackathon": {
+        "projects": 19,
+        "project_submission_platform": "devfolio",
+        "project_submission_url": "https://ethdenver.devfolio.co/"
       }
     },
     {
@@ -1199,14 +1284,28 @@
       "region": "asia"
     },
     {
+      "id": "ethberlin4",
+      "name": "ETHBerlin4",
+      "series": "ethberlin",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2024-05",
+      "days": 3,
+      "place": "Berlin",
+      "region": "europe",
+      "country": "de",
+      "host_name": "Department of Decentralization"
+    },
+    {
       "id": "devcon7",
       "name": "Devcon 7",
       "series": "devcon",
       "types": [
         "conference"
       ],
-      "date": "2024-??-??",
-      "days": 4,
+      "date": "2024",
+      "days": 0,
       "place": "Southeast Asia",
       "country": "xx",
       "region": "asia"
@@ -1476,7 +1575,6 @@
     {
       "id": "devconnect",
       "name": "Devconnect",
-      "series": "devconnect",
       "types": [
         "collaborative-week"
       ],
@@ -1602,6 +1700,7 @@
     {
       "id": "ethindia-2022",
       "name": "ETHIndia 2022",
+      "family": "ethglobal",
       "series": "ethindia",
       "types": [
         "hackathon",
@@ -1773,9 +1872,6 @@
             "amount": "500 USD"
           }
         ]
-      },
-      "links": {
-        "web": "https://ethbrno.cz/"
       }
     },
     {
@@ -1948,7 +2044,7 @@
         "hackathon",
         "conference"
       ],
-      "date": "2019-03-08",
+      "date": "2019-04-19",
       "days": 3,
       "place": "Cape Town",
       "region": "africa",
@@ -1970,6 +2066,30 @@
       }
     },
     {
+      "id": "ethdenver",
+      "name": "ETHDenver",
+      "series": "ethdenver",
+      "types": [
+        "conference",
+        "hackathon"
+      ],
+      "date": "2019-02-15",
+      "days": 3,
+      "place": "Denver",
+      "region": "us-ca",
+      "country": "us",
+      "venues": [
+        {
+          "name": "The Sports Castle",
+          "address": "1000 Broadway, Denver, CO 80203"
+        }
+      ],
+      "attendees": 1500,
+      "links": {
+        "web": "https://ethdenver.wixsite.com/ethdenver/ethdenver-2019"
+      }
+    },
+    {
       "id": "dappcon19",
       "name": "DappCon 2019",
       "series": "dappcon",
@@ -1985,6 +2105,20 @@
       "links": {
         "web": "https://2019.dappcon.io/"
       }
+    },
+    {
+      "id": "ethcc2",
+      "name": "EthCC 2",
+      "series": "ethcc",
+      "types": [
+        "conference"
+      ],
+      "date": "2019-03-05",
+      "days": 3,
+      "place": "Paris",
+      "region": "europe",
+      "country": "fr",
+      "aftermovie": "https://www.youtube.com/watch?v=2m_3h8uexL0"
     },
     {
       "id": "ethparis",
