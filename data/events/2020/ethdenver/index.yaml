@@ -1,0 +1,12 @@
+name: ETHDenver
+series: ethdenver
+types: [ hackathon, conference ]
+date: "2020-02-14"
+days: 4
+place: Denver
+region: us-ca
+country: us
+hackathon:
+  projects: 19
+  project_submission_platform: devfolio
+  project_submission_url: https://ethdenver.devfolio.co/

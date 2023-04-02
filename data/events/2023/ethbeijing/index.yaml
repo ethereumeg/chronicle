@@ -6,3 +6,6 @@ days: 4
 place: Beijing
 region: asia
 country: cn
+hackathon:
+  project_submission_platform: dorahacks
+  project_submission_url: https://dorahacks.io/hackathon/eth-beijing-2023

@@ -1,0 +1,13 @@
+name: ETHMexico
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2022-08-19"
+days: 3
+place: Mexico City
+region: latam
+country: mx
+venues:
+  - name: Proyecto Público Prim
+    address: Calle Gral. Prim 30, Juárez, Cuauhtémoc, 06600 Colonia Juárez, CDMX
+links:
+  web: https://mexico.ethglobal.com/

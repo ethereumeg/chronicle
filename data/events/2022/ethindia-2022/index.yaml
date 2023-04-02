@@ -1,0 +1,11 @@
+name: ETHIndia 2022
+series: ethindia
+types: [ hackathon, conference ]
+date: "2022-12-02"
+days: 3
+place: Bengaluru
+region: asia
+country: in
+venues:
+  - name: Karnataka Trade Promotion Organization (KTPO)
+    address: Whitefield, Bengaluru

@@ -15,6 +15,10 @@ properties:
     pattern: "^[a-z0-9-]+$"
   name:
     type: string
+  aliases:
+    type: array
+    items:
+      type: string
   series:
     type: string
     pattern: "^[a-z0-9-]+$"
@@ -85,6 +89,7 @@ properties:
           - taikai
           - devpost
           - ethglobal
+          - dorahacks
           - custom
       project_submission_url:
         type: string

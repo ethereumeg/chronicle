@@ -1,8 +1,10 @@
-name: DΞVCON1
+name: DΞVCON 1
+aliases:
+  - Devcon 1
 series: devcon
 types: [ conference ]
 date: "2015-11-09"
+days: 5
 place: London
 country: gb
 region: europe
-days: 5

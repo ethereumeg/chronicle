@@ -11,3 +11,7 @@ venues:
     address: 180 Yeoksam-ro, Gangnam-gu, Seoul
 links:
   web: https://2022.ethseoul.org/
+hackathon:
+  projects: 23
+  project_submission_platform: devfolio
+  project_submission_url: https://ethseoul.devfolio.co/

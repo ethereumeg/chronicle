@@ -1,0 +1,13 @@
+name: ETHIndia
+series: ethindia
+types: [ hackathon, conference ]
+date: "2018-08-10"
+days: 3
+place: Bengaluru
+region: asia
+country: in
+venues:
+  - name: MLR Convention Center
+    address: Brigade Millenium Campus, JP Nagar 7th Phase, Bengaluru, Karnataka, 560078
+links:
+  website: https://2018.ethindia.co/
