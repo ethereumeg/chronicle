@@ -90,7 +90,17 @@
       "name": "ETHBarcelona",
       "place": "Barcelona",
       "region": "europe",
-      "country": "es"
+      "country": "es",
+      "links": {
+        "twitter": "https://twitter.com/eth_barcelona"
+      }
+    },
+    {
+      "id": "spaghetteth",
+      "name": "SpaghettETH",
+      "place": "Milan",
+      "region": "europe",
+      "country": "it"
     },
     {
       "id": "ethereumzurich",
@@ -118,7 +128,10 @@
       "name": "ETHSeoul",
       "place": "Seoul",
       "region": "asia",
-      "country": "kr"
+      "country": "kr",
+      "links": {
+        "web": "https://ethseoul.org/"
+      }
     }
   ],
   "events": [
@@ -200,9 +213,36 @@
       "attendees": 700,
       "hackathon": {
         "hackers": 260,
+        "projects": 28,
         "project_submission_platform": "taikai",
         "project_submission_url": "https://taikai.network/ethporto/hackathons/ethportohackathon2023",
-        "hacker_application_platform": "google-forms"
+        "hacker_application_platform": "google-forms",
+        "prizes_total": "10000 USD",
+        "prizes": [
+          {
+            "name": "The 1st place",
+            "amount": "5000 USD"
+          },
+          {
+            "name": "The 2nd place",
+            "amount": "2500 USD"
+          },
+          {
+            "name": "The 3rd place",
+            "amount": "1250 USD"
+          },
+          {
+            "name": "The 4th place",
+            "amount": "750 USD"
+          },
+          {
+            "name": "The 5th place",
+            "amount": "500 USD"
+          }
+        ]
+      },
+      "links": {
+        "web": "https://ethporto.org/"
       }
     },
     {
@@ -222,7 +262,10 @@
           "name": "Magazin in der Heeresbäckerei",
           "address": "Köpenicker Str. 16-17, 10997 Berlin"
         }
-      ]
+      ],
+      "links": {
+        "web": "https://protocol.berlin/"
+      }
     },
     {
       "id": "ethdenver-2023",
@@ -270,21 +313,34 @@
           "name": "Museo de Arte de Río",
           "address": "Praça Mauá, 5 - Centro, Rio de Janeiro - RJ, 20081-240"
         }
-      ]
+      ],
+      "links": {
+        "web": "https://www.ethereumbrasil.com/ethereumrio"
+      }
     },
     {
       "id": "ethereumzurich",
       "name": "EthereumZuri.ch",
       "series": "ethereumzurich",
       "types": [
-        "hackathon",
-        "conference"
+        "conference",
+        "hackathon"
       ],
       "date": "2023-04-14",
       "days": 3,
       "place": "Zurich",
       "region": "europe",
-      "country": "ch"
+      "country": "ch",
+      "attendees": 800,
+      "links": {
+        "web": "https://ethereumzuri.ch/"
+      },
+      "hackathon": {
+        "hackers": 100,
+        "hacker_application_platform": "typeform",
+        "project_submission_platform": "devfolio",
+        "project_submission_url": "https://ethereumzurich.devfolio.co/"
+      }
     },
     {
       "id": "ethdublin",
@@ -297,7 +353,10 @@
       "days": 3,
       "place": "Dublin",
       "region": "europe",
-      "country": "ie"
+      "country": "ie",
+      "links": {
+        "web": "https://www.ethdublin.io/"
+      }
     },
     {
       "id": "ethcc6",
@@ -326,7 +385,11 @@
       "place": "Amsterdam",
       "region": "europe",
       "country": "nl",
-      "attendees": 800
+      "attendees": 800,
+      "hackathon": {
+        "hacker_application_platform": "google-forms",
+        "project_submission_platform": "taikai"
+      }
     },
     {
       "id": "devcon1",
@@ -414,10 +477,16 @@
       "country": "pt",
       "venues": [
         {
-          "name": "The Fintech House",
-          "address": "Praça da Alegria 22, 1250-217 Lisboa"
+          "name": "Academia de Ciências de Lisboa.",
+          "address": "R. Academia das Ciências 19, 1200-168 Lisboa"
         }
-      ]
+      ],
+      "hackathon": {
+        "projects": 92,
+        "project_submission_platform": "taikai",
+        "project_submission_url": "https://taikai.network/ethlisbon/hackathons/ethlisbon-2022",
+        "prizes_total": "20000 USD"
+      }
     },
     {
       "id": "ethprague-2022",
@@ -446,7 +515,8 @@
         "projects": 48,
         "project_submission_platform": "devpost",
         "project_submission_url": "https://ethprague-2022.devpost.com/"
-      }
+      },
+      "aftermovie": "https://www.youtube.com/watch?v=BZ0_NWHcDxQ"
     },
     {
       "id": "ethbarcelona",
@@ -466,7 +536,24 @@
           "name": "Pakhuis de Zwijger",
           "address": "Piet Heinkade 179, 1019 HC Amsterdam"
         }
-      ]
+      ],
+      "links": {
+        "web": "https://ethbarcelona.com/"
+      }
+    },
+    {
+      "id": "spaghetteth",
+      "name": "SpaghettETH 2022",
+      "series": "spaghetteth",
+      "types": [
+        "conference"
+      ],
+      "date": "2022-05-03",
+      "days": 1,
+      "place": "Milan",
+      "region": "europe",
+      "country": "it",
+      "aftermovie": "https://www.youtube.com/watch?v=hPN1eBaY2g8"
     },
     {
       "id": "ethb3rlin",
@@ -480,12 +567,19 @@
       "place": "Berlin",
       "region": "europe",
       "country": "de",
+      "attendees": 1200,
       "venues": [
         {
           "name": "Factory Görlitzer",
           "address": "Lohmühlenstraße 65, 12435 Berlin"
         }
-      ]
+      ],
+      "hackathon": {
+        "projects": 100,
+        "project_submission_platform": "devfolio",
+        "project_submission_url": "https://ethberlin.devfolio.co/",
+        "prizes_total": "56000 USD"
+      }
     },
     {
       "id": "ethbrno2",
@@ -539,6 +633,9 @@
             "amount": "500 USD"
           }
         ]
+      },
+      "links": {
+        "web": "https://ethbrno.cz/"
       }
     },
     {
@@ -558,7 +655,10 @@
           "name": "Maru 180",
           "address": "180 Yeoksam-ro, Gangnam-gu, Seoul"
         }
-      ]
+      ],
+      "links": {
+        "web": "https://2022.ethseoul.org/"
+      }
     },
     {
       "id": "ethberlin-zwei",
@@ -577,7 +677,12 @@
           "name": "Factory Görlitzer",
           "address": "Lohmühlenstraße 65, 12435 Berlin, Germany"
         }
-      ]
+      ],
+      "hackathon": {
+        "projects": 88,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://zwei.devpost.com/"
+      }
     }
   ]
 }
