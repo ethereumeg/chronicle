@@ -12,6 +12,9 @@ venues:
     address: Rheinsberger Str. 76/77, 10115 Berlin, Germany
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany
+links:
+  web: https://ethberlin.com/
+  github: https://github.com/ethberlin-hackathon
 hackathon:
   hackers: 700
   projects: 65

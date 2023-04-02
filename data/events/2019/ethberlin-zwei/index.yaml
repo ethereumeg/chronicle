@@ -9,6 +9,9 @@ country: de
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany
+links:
+  web: https://ethberlinzwei.com/
+  github: https://github.com/ethberlinzwei
 hackathon:
   projects: 88
   project_submission_platform: devpost

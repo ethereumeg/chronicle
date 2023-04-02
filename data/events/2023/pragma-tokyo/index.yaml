@@ -1,0 +1,10 @@
+name: Pragma Tokyo
+series: ethglobal
+types: [ conference ]
+date: "2023-04-13"
+days: 1
+place: Tokyo
+region: asia
+country: jp
+links:
+  web: https://ethglobal.com/events/pragma-tokyo

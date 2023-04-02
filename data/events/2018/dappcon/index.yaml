@@ -1,0 +1,10 @@
+name: DappCon
+series: dappcon
+types: [ conference ]
+date: "2018-07-19"
+days: 2
+place: Berlin
+region: europe
+country: de
+links:
+  web: https://2018.dappcon.io/

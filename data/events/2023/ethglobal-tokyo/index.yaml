@@ -1,0 +1,13 @@
+name: ETHGlobal Tokyo
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2023-04-14"
+days: 3
+place: Tokyo
+region: asia
+country: jp
+venues:
+  - name: Toranomon Hills Forum
+    address: 〒105-0001 Tokyo, Minato City, Toranomon, 1 Chome−23−3 虎ノ門ヒルズ森タワー 5F
+links:
+  web: https://ethglobal.com/events/tokyo

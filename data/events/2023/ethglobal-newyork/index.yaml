@@ -1,0 +1,10 @@
+name: ETHGlobal New York
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2023-09-22"
+days: 3
+place: New York
+region: us-ca
+country: us
+links:
+  web: https://ethglobal.com/events/newyork2023

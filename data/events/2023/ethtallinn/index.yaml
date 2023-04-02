@@ -1,0 +1,13 @@
+name: ETHTallinn
+types: [ hackathon, conference ]
+date: "2023-05-05"
+days: 3
+place: Tallinn
+region: europe
+country: ee
+venues:
+  - name: Estonian Business School
+    address: A. Lauteri 3, 10114 Tallinn
+links:
+  web: https://www.ethtallinn.org/
+  cryptoevents: https://cryptoevents.xyz/?event=ETHTallinn-2023

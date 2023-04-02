@@ -1,0 +1,13 @@
+name: ETHGlobal Lisbon
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2023-05-12"
+days: 3
+place: Lisbon
+region: europe
+country: pt
+venues:
+  - name: Convento do Beato
+    address: Alameda do Beato 40, 1950-042 Lisboa
+links:
+  web: https://ethglobal.com/events/lisbon

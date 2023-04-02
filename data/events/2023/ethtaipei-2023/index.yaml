@@ -10,3 +10,5 @@ attendees: 700
 venues:
   - name: POPOP Taipei
     address: No. 13, Section 2, Nangang Rd, Nangang District, Taipei City, 115
+links:
+  cryptoevents: https://cryptoevents.xyz/?event=ETHTaipei-2023

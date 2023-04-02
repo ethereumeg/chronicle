@@ -1,0 +1,10 @@
+name: ETHLatam
+types: [ conference ]
+date: "2022-10-10"
+days: 1
+place: Bogota
+region: latam
+country: co
+venues:
+  - name: Agora Bogotá Convention Center
+    address: Calle 24 No 38-71

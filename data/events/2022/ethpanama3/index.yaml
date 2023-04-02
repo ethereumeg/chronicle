@@ -1,0 +1,11 @@
+name: ETHPanama
+types: [ conference ]
+date: "2022-10-26"
+days: 3
+place: Panama
+region: latam
+country: pa
+links:
+  web: https://www.ethpanama.com/
+  twitter: https://twitter.com/EthPanama
+  telegram: https://t.me/EthPanama

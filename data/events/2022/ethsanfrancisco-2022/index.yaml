@@ -1,0 +1,13 @@
+name: ETHSanFrancisco 2023
+series: ethglobal
+types: [ hackathon, conference ]
+date: "2022-11-04"
+days: 3
+place: San Francisco
+region: us-ca
+country: us
+venues:
+  - name: Palace of Fine Arts
+    address: 3601 Lyon St, San Francisco, CA 94123
+links:
+  web: https://sf.ethglobal.com/

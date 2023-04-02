@@ -1,0 +1,14 @@
+name: ETH Gathering
+types: [ conference ]
+date: "2022-11-19"
+days: 2
+place: Barcelona
+region: europe
+country: es
+venues:
+  - name: Hotel SOFIA
+    address: Pl. de Pius XII, 4, 08028 Barcelona
+links:
+  web: https://www.ethgathering.com/
+  twitter: https://twitter.com/ethgathering
+  telegram: http://t.me/ETHGathering

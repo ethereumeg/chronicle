@@ -1,0 +1,13 @@
+name: ETHSeoul 2023
+series: ethseoul
+types: [ hackathon, conference ]
+date: "2023-06-02"
+days: 3
+place: Seoul
+region: asia
+country: kr
+venues:
+  - name: Sky31 Convention
+    address: Lotte World Tower, Seoul
+links:
+  web: https://2023.ethseoul.org/

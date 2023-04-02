@@ -10,6 +10,9 @@ attendees: 1200
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin
+links:
+  web: https://ethberlin.ooo/
+  github: https://github.com/ethb3rlin
 hackathon:
   projects: 100
   project_submission_platform: devfolio

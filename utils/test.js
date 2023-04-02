@@ -12,11 +12,16 @@ addFormats(ajv);
 
 for (const col of Object.values(chronicle.data)) {
   const validator = ajv.compile(col.schema);
+  const ids = []
   for (const item of col.items) {
     Deno.test(`${col.name}.${item.id}`, () => {
       if (!validator(item.index)) {
         throw validator.errors;
       }
+      if (ids.includes(item.id)) {
+        throw `Duplicate ${col.name} id=${item.id}`
+      }
+      ids.push(item.id)
     });
   }
 }

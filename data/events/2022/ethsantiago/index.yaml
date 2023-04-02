@@ -1,0 +1,11 @@
+name: ETHSantiago
+types: [ conference ]
+date: "2022-09-23"
+days: 2
+place: Santiago
+region: latam
+country: cl
+links:
+  web: https://ethsantiago.com/
+  twitter: https://twitter.com/ETHSantiago
+  telegram: https://t.me/ETHSantiago
