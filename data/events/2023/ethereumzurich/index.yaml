@@ -1,8 +1,16 @@
 name: EthereumZuri.ch
 series: ethereumzurich
-types: [ hackathon, conference ]
+types: [ conference, hackathon ]
 date: "2023-04-14"
 days: 3
 place: Zurich
 region: europe
 country: ch
+attendees: 800
+links:
+  web: https://ethereumzuri.ch/
+hackathon:
+  hackers: 100
+  hacker_application_platform: typeform
+  project_submission_platform: devfolio
+  project_submission_url: https://ethereumzurich.devfolio.co/

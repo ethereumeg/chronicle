@@ -99,3 +99,11 @@ properties:
             amount:
               type: string
               pattern: "^[\\d\\.]+ [A-Z]{3}$"
+  aftermovie:
+    type: string
+    format: uri
+  links:
+    type: object
+    additionalProperties:
+      type: string
+      format: uri

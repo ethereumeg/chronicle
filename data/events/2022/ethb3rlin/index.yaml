@@ -6,6 +6,12 @@ days: 3
 place: Berlin
 region: europe
 country: de
+attendees: 1200
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin
+hackathon:
+  projects: 100
+  project_submission_platform: devfolio
+  project_submission_url: https://ethberlin.devfolio.co/
+  prizes_total: 56000 USD

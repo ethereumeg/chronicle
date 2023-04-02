@@ -9,3 +9,7 @@ country: de
 venues:
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany
+hackathon:
+  projects: 88
+  project_submission_platform: devpost
+  project_submission_url: https://zwei.devpost.com/

@@ -9,6 +9,21 @@ country: pt
 attendees: 700
 hackathon:
   hackers: 260
+  projects: 28
   project_submission_platform: taikai
   project_submission_url: https://taikai.network/ethporto/hackathons/ethportohackathon2023
   hacker_application_platform: google-forms
+  prizes_total: 10000 USD
+  prizes:
+    - name: The 1st place
+      amount: 5000 USD
+    - name: The 2nd place
+      amount: 2500 USD
+    - name: The 3rd place
+      amount: 1250 USD
+    - name:  The 4th place
+      amount: 750 USD
+    - name:  The 5th place
+      amount: 500 USD
+links:
+  web: https://ethporto.org/

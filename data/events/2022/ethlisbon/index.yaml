@@ -7,5 +7,10 @@ place: Lisbon
 region: europe
 country: pt
 venues:
-  - name: The Fintech House
-    address: Praça da Alegria 22, 1250-217 Lisboa
+  - name:  Academia de Ciências de Lisboa.
+    address: R. Academia das Ciências 19, 1200-168 Lisboa
+hackathon:
+  projects: 92
+  project_submission_platform: taikai
+  project_submission_url: https://taikai.network/ethlisbon/hackathons/ethlisbon-2022
+  prizes_total: 20000 USD

@@ -7,3 +7,6 @@ place: Amsterdam
 region: europe
 country: nl
 attendees: 800
+hackathon:
+  hacker_application_platform: google-forms
+  project_submission_platform: taikai

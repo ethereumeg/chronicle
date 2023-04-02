@@ -9,3 +9,5 @@ country: kr
 venues:
   - name: Maru 180
     address: 180 Yeoksam-ro, Gangnam-gu, Seoul
+links:
+  web: https://2022.ethseoul.org/

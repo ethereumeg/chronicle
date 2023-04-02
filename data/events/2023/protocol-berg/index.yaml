@@ -9,3 +9,5 @@ attendees: 600
 venues:
   - name: Magazin in der Heeresbäckerei
     address: Köpenicker Str. 16-17, 10997 Berlin
+links:
+  web: https://protocol.berlin/
