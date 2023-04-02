@@ -12,7 +12,11 @@
       "name": "EthCC",
       "place": "Paris",
       "region": "europe",
-      "country": "fr"
+      "country": "fr",
+      "links": {
+        "web": "https://www.ethcc.io/",
+        "twitter": "https://twitter.com/EthCC"
+      }
     },
     {
       "id": "ethwarsaw",
@@ -47,11 +51,18 @@
       "name": "ETHBrno",
       "place": "Brno",
       "region": "europe",
-      "country": "cz"
+      "country": "cz",
+      "links": {
+        "web": "https://ethbrno.cz/",
+        "twitter": "https://twitter.com/ETHBrno"
+      }
     },
     {
       "id": "ethsafari",
       "name": "ETHSafari",
+      "aliases": [
+        "ETHKenya"
+      ],
       "place": "Nairobi",
       "region": "africa",
       "country": "ke"
@@ -72,18 +83,49 @@
       "name": "Devconnect"
     },
     {
+      "id": "ethglobal",
+      "name": "ETHGlobal",
+      "links": {
+        "web": "https://ethglobal.com/"
+      }
+    },
+    {
       "id": "ethlisbon",
       "name": "ETHLisbon",
       "place": "Lisbon",
       "region": "europe",
-      "country": "pt"
+      "country": "pt",
+      "links": {
+        "web": "https://www.ethlisbon.org/",
+        "twitter": "https://twitter.com/ethlisbon"
+      }
+    },
+    {
+      "id": "ethtaipei",
+      "name": "ETHTaipei",
+      "place": "Taipei",
+      "region": "asia",
+      "country": "tw",
+      "links": {
+        "web": "https://ethtaipei.org/"
+      }
     },
     {
       "id": "ethdenver",
       "name": "ETHDenver",
       "place": "Denver",
-      "region": "north-america",
+      "region": "us-ca",
       "country": "us"
+    },
+    {
+      "id": "ethdownunder",
+      "name": "ETHDownUnder",
+      "place": "Sydney",
+      "region": "australia",
+      "country": "au",
+      "links": {
+        "web": "https://ethdownunder.com/"
+      }
     },
     {
       "id": "ethbarcelona",
@@ -105,6 +147,10 @@
     {
       "id": "ethereumzurich",
       "name": "EthereumZurich",
+      "aliases": [
+        "ETHZurich",
+        "EthereumZuri.ch"
+      ],
       "place": "Zurich",
       "region": "europe",
       "country": "ch"
@@ -132,6 +178,24 @@
       "links": {
         "web": "https://ethseoul.org/"
       }
+    },
+    {
+      "id": "ethbeijing",
+      "name": "ETHBeijing",
+      "place": "Beijing",
+      "region": "asia",
+      "country": "cn",
+      "links": {
+        "web": "https://www.ethbeijing.xyz/",
+        "twitter": "https://twitter.com/PKUBlockchain"
+      }
+    },
+    {
+      "id": "ethseattle",
+      "name": "ETHSeattle",
+      "place": "Seattle",
+      "region": "us-ca",
+      "country": "us"
     }
   ],
   "events": [
@@ -160,7 +224,61 @@
         }
       ],
       "hackathon": {
-        "hackers": 700
+        "hackers": 700,
+        "projects": 65,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethberlin.devpost.com/"
+      }
+    },
+    {
+      "id": "ethsingapore",
+      "name": "ETHSingapore",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2018-12-07",
+      "days": 3,
+      "place": "Singapore",
+      "region": "asia",
+      "country": "sg",
+      "venues": [
+        {
+          "name": "thebridge",
+          "address": "2 Science Park Drive Level 1, Singapore 118222"
+        }
+      ],
+      "links": {
+        "url": "https://ethsingapore.co/",
+        "twitter": "https://twitter.com/ethsingapore"
+      },
+      "hackathon": {
+        "projects": 44,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethsingapore.devpost.com/"
+      }
+    },
+    {
+      "id": "ethsanfrancisco",
+      "name": "ETHSanFrancisco",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2018-10-05",
+      "days": 3,
+      "place": "San Francisco",
+      "region": "us-ca",
+      "country": "us",
+      "links": {
+        "url": "https://ethsanfrancisco.com/"
+      },
+      "hackathon": {
+        "projects": 121,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethsanfrancisco.devpost.com/"
       }
     },
     {
@@ -184,6 +302,24 @@
       ]
     },
     {
+      "id": "ethlisbon",
+      "name": "ETHLisbon",
+      "series": "ethlisbon",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2021-10-22",
+      "days": 3,
+      "place": "Lisbon",
+      "region": "europe",
+      "country": "pt",
+      "hackathon": {
+        "projects": 64,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethlisbon.devpost.com/"
+      }
+    },
+    {
       "id": "ethbelgrade",
       "name": "ETHBelgrade",
       "series": "ethbelgrade",
@@ -195,12 +331,19 @@
       "days": 5,
       "place": "Belgrade",
       "region": "europe",
-      "country": "rs"
+      "country": "rs",
+      "attendees": 1200,
+      "hackathon": {
+        "hackers": 300
+      },
+      "links": {
+        "web": "https://ethbelgrade.rs/"
+      }
     },
     {
       "id": "ethporto",
       "name": "ETHPorto",
-      "series": "ethdam",
+      "series": "ethporto",
       "types": [
         "hackathon",
         "conference"
@@ -280,6 +423,27 @@
       "place": "Denver",
       "region": "us-ca",
       "country": "us"
+    },
+    {
+      "id": "ethtaipei",
+      "name": "ETHTaipei 2023",
+      "series": "ethtaipei",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2023-04-21",
+      "days": 5,
+      "place": "Taipei",
+      "region": "asia",
+      "country": "tw",
+      "attendees": 700,
+      "venues": [
+        {
+          "name": "POPOP Taipei",
+          "address": "No. 13, Section 2, Nangang Rd, Nangang District, Taipei City, 115"
+        }
+      ]
     },
     {
       "id": "ethprague-2023",
@@ -392,6 +556,64 @@
       }
     },
     {
+      "id": "ethbeijing",
+      "name": "ETHBeijing",
+      "series": "ethbeijing",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2023-04-05",
+      "days": 4,
+      "place": "Beijing",
+      "region": "asia",
+      "country": "cn"
+    },
+    {
+      "id": "ethlondon",
+      "name": "ETHLondonUK",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2020-02-28",
+      "days": 3,
+      "place": "London",
+      "region": "europe",
+      "country": "gb",
+      "links": {
+        "web": "https://ethlondon.com/"
+      },
+      "hackathon": {
+        "projects": 50,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethlondon.devpost.com/"
+      }
+    },
+    {
+      "id": "ethnyc",
+      "name": "ETHNYC",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2020-05-15",
+      "days": 3,
+      "place": "New York",
+      "region": "us-ca",
+      "country": "us",
+      "links": {
+        "web": "https://nyc.ethglobal.co/",
+        "twitter": "https://twitter.com/ETHNewYork"
+      },
+      "hackathon": {
+        "projects": 50,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethlondon.devpost.com/"
+      }
+    },
+    {
       "id": "devcon1",
       "name": "DΞVCON1",
       "series": "devcon",
@@ -403,6 +625,51 @@
       "country": "gb",
       "region": "europe",
       "days": 5
+    },
+    {
+      "id": "ethwaterloo",
+      "name": "ETHWaterloo",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2017-10-13",
+      "days": 3,
+      "place": "Waterloo",
+      "region": "us-ca",
+      "country": "ca",
+      "links": {
+        "web": "https://ethwaterloo.com/"
+      },
+      "hackathon": {
+        "projects": 72,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethwaterloo.devpost.com/",
+        "hacker_application_platform": "airtable"
+      }
+    },
+    {
+      "id": "ethseattle-2022",
+      "name": "ETHSeattle 2023",
+      "series": "ethseattle",
+      "types": [
+        "conference"
+      ],
+      "date": "2022-07-08",
+      "days": 1,
+      "place": "Seattle",
+      "region": "us-ca",
+      "country": "us",
+      "venues": [
+        {
+          "name": "Art Marble 21",
+          "address": "731 Westlake Ave N, Seattle, WA 98109"
+        }
+      ],
+      "links": {
+        "web": "https://2022.ethseattle.org/"
+      }
     },
     {
       "id": "ethwarsaw",
@@ -423,6 +690,51 @@
           "address": "Gmach Główny, plac Politechniki 1, 00-661 Warszawa"
         }
       ]
+    },
+    {
+      "id": "ethbogota",
+      "name": "ETHBogota",
+      "series": "ethglobal",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2022-10-07",
+      "days": 3,
+      "place": "Bogota",
+      "region": "latam",
+      "country": "co",
+      "venues": [
+        {
+          "name": "Agora Bogotá",
+          "address": "CAc. 24 #38-47, Bogotá"
+        }
+      ],
+      "links": {
+        "web": "https://bogota.ethglobal.com/"
+      }
+    },
+    {
+      "id": "ethnewyork-2022",
+      "name": "ETHNewYork 2022",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2022-06-24",
+      "days": 3,
+      "place": "New York",
+      "region": "us-ca",
+      "country": "us",
+      "venues": [
+        {
+          "name": "AMetropolitan Pavillion",
+          "address": "125 W 18th St, New York, NY"
+        }
+      ],
+      "links": {
+        "web": "https://nyc.ethglobal.co/"
+      }
     },
     {
       "id": "ethsafari",
@@ -451,21 +763,8 @@
       "country": "fr"
     },
     {
-      "id": "devconnect",
-      "name": "Devconnect",
-      "series": "devconnect",
-      "types": [
-        "collaborative-week"
-      ],
-      "date": "2022-04-18",
-      "days": 8,
-      "place": "Amsterdam",
-      "region": "europe",
-      "country": "nl"
-    },
-    {
-      "id": "ethlisbon",
-      "name": "ETHLisbon",
+      "id": "ethlisbon-2022",
+      "name": "ETHLisbon 2022",
       "series": "ethlisbon",
       "types": [
         "hackathon"
@@ -487,6 +786,54 @@
         "project_submission_url": "https://taikai.network/ethlisbon/hackathons/ethlisbon-2022",
         "prizes_total": "20000 USD"
       }
+    },
+    {
+      "id": "devconnect",
+      "name": "Devconnect",
+      "series": "devconnect",
+      "types": [
+        "collaborative-week"
+      ],
+      "date": "2022-04-18",
+      "days": 8,
+      "place": "Amsterdam",
+      "region": "europe",
+      "country": "nl"
+    },
+    {
+      "id": "ethamsterdam",
+      "name": "ETHAmsterdam",
+      "series": "ethglobal",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2022-04-22",
+      "days": 3,
+      "place": "Amsterdam",
+      "region": "europe",
+      "country": "nl",
+      "venues": [
+        {
+          "name": "Beurs van Berlage",
+          "address": "Damrak 243, 1012 ZJ, Amsterdam"
+        }
+      ],
+      "links": {
+        "web": "https://amsterdam.ethglobal.com/"
+      }
+    },
+    {
+      "id": "ethdownunder",
+      "name": "ETHDownUnder",
+      "series": "ethdownunder",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2022-12-01",
+      "days": 4,
+      "place": "Sydney",
+      "region": "australia",
+      "country": "au"
     },
     {
       "id": "ethprague-2022",
@@ -661,6 +1008,55 @@
       }
     },
     {
+      "id": "ethwaterloo-2019",
+      "name": "ETHWaterloo 2019",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2019-11-08",
+      "days": 3,
+      "place": "Waterloo",
+      "region": "us-ca",
+      "country": "ca",
+      "venues": [
+        {
+          "name": "Centre for International Governance Innovation",
+          "address": "67 Erb St W, Waterloo, ON N2L 6C2"
+        }
+      ],
+      "attendees": 500,
+      "links": {
+        "web": "https://ethwaterloo.com/"
+      },
+      "hackathon": {
+        "projects": 65,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethwaterloo2.devpost.com/",
+        "hacker_application_platform": "airtable"
+      }
+    },
+    {
+      "id": "ethnewyork",
+      "name": "ETHNewYork",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2019-05-17",
+      "days": 3,
+      "place": "New York",
+      "region": "us-ca",
+      "country": "us",
+      "hackathon": {
+        "projects": 64,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethnewyork.devpost.com/"
+      }
+    },
+    {
       "id": "ethberlin-zwei",
       "name": "ETHBerlin zwei",
       "series": "ethberlin",
@@ -682,6 +1078,85 @@
         "projects": 88,
         "project_submission_platform": "devpost",
         "project_submission_url": "https://zwei.devpost.com/"
+      }
+    },
+    {
+      "id": "ethboston",
+      "name": "ETHBoston",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2019-09-06",
+      "days": 3,
+      "place": "Boston",
+      "region": "us-ca",
+      "country": "us",
+      "links": {
+        "web": "https://www.ethboston.xyz/",
+        "twitter": "https://twitter.com/ETHBoston"
+      },
+      "hackathon": {
+        "projects": 55,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethboston.devpost.com/"
+      }
+    },
+    {
+      "id": "ethcapetown",
+      "name": "ETHCapeTown",
+      "series": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2019-03-08",
+      "days": 3,
+      "place": "Cape Town",
+      "region": "africa",
+      "country": "za",
+      "venues": [
+        {
+          "name": "The Lookout Waterfront",
+          "address": "Granger Bay Blvd, V & A Waterfront, Cape Town, 8002"
+        }
+      ],
+      "links": {
+        "web": "https://ethcapetown.com/",
+        "twitter": "https://twitter.com/EthCapeTown"
+      },
+      "hackathon": {
+        "projects": 33,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethcapetown.devpost.com/"
+      }
+    },
+    {
+      "id": "ethparis",
+      "name": "ETHParis",
+      "series": "ethglobal",
+      "types": [
+        "hackathon"
+      ],
+      "date": "2019-03-08",
+      "days": 3,
+      "place": "Paris",
+      "region": "europe",
+      "country": "fr",
+      "venues": [
+        {
+          "name": "42",
+          "address": "96 Bd Bessières, 75017 Paris"
+        }
+      ],
+      "links": {
+        "web": "https://ethparis.com/"
+      },
+      "hackathon": {
+        "projects": 45,
+        "project_submission_platform": "devpost",
+        "project_submission_url": "https://ethparis.devpost.com/"
       }
     }
   ]
