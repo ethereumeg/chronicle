@@ -6,8 +6,11 @@ days: 3
 place: Berlin
 region: europe
 country: de
+attendees: 1200
 venues:
   - name: Factory Mitte
     address: Rheinsberger Str. 76/77, 10115 Berlin, Germany
   - name: Factory Görlitzer
     address: Lohmühlenstraße 65, 12435 Berlin, Germany
+hackathon:
+  hackers: 700

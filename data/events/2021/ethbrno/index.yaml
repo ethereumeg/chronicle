@@ -1,0 +1,12 @@
+name: ETHBrno
+series: ethbrno
+types: [ conference ]
+date: "2021-10-09"
+days: 1
+place: Brno
+region: europe
+country: cz
+attendees: 200
+venues:
+  - name: KC Skála
+    address: Oblá 505/54a, 634 00 Brno - Nový Lískovec

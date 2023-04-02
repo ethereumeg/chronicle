@@ -5,3 +5,7 @@ days: 1
 place: Berlin
 region: europe
 country: de
+attendees: 600
+venues:
+  - name: Magazin in der Heeresbäckerei
+    address: Köpenicker Str. 16-17, 10997 Berlin

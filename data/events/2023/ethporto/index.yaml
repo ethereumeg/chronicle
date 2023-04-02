@@ -1,0 +1,14 @@
+name: ETHPorto
+series: ethdam
+types: [ hackathon, conference ]
+date: "2023-03-16"
+days: 3
+place: Porto
+region: europe
+country: pt
+attendees: 700
+hackathon:
+  hackers: 260
+  project_submission_platform: taikai
+  project_submission_url: https://taikai.network/ethporto/hackathons/ethportohackathon2023
+  hacker_application_platform: google-forms

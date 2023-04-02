@@ -11,6 +11,18 @@ properties:
     type: string
   place:
     type: string
+  region:
+    type: string
+    enum:
+      - europe
+      - asia
+      - north-america
+      - latam
+      - africa
+      - australia
+  country:
+    type: string
+    pattern: "^[a-z]{2}$"
   status:
     type: string
     enum:

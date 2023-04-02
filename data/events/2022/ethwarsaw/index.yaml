@@ -1,0 +1,11 @@
+name: ETHWarsaw
+series: ethwarsaw
+types: [ conference, hackathon ]
+date: "2022-09-01"
+days: 4
+place: Warsaw
+region: europe
+country: pl
+venues:
+  - name: Politechnika Warszawska
+    address: Gmach Główny, plac Politechniki 1, 00-661 Warszawa
