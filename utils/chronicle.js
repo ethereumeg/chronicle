@@ -17,6 +17,7 @@ export class Chronicle {
     this.outputDir = this.options.outputDir || "./dist";
     this.schemaDir = this.options.schemaDir || "./schema";
     this.data = {};
+    this.schemas = {};
     this.initialized = false;
   }
 
@@ -24,7 +25,7 @@ export class Chronicle {
     this.initialized = true;
     // Load collections & schemas
     for (const [col, colConfig] of CHRONICLE_COLLECTIONS) {
-      const schema = await _yamlLoad(
+      const schema = this.schemas[colConfig.schema] = await _yamlLoad(
         path.join(this.schemaDir, `${colConfig.schema}.yaml`),
       );
       // load data
@@ -39,6 +40,15 @@ export class Chronicle {
     }
     await fs.emptyDir(this.outputDir);
     await _jsonWrite(path.join(this.outputDir, "index.json"), this.data);
+    // write schemas
+    const schemaOutputDir = path.join(this.outputDir, "schema");
+    await fs.emptyDir(schemaOutputDir);
+    for (const schemaKey of Object.keys(this.schemas)) {
+      await _jsonWrite(
+        path.join(schemaOutputDir, `${schemaKey}.json`),
+        this.schemas[schemaKey],
+      );
+    }
   }
 }
 
