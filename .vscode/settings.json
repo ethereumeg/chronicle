@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://data.chronicle.ethevents.club/schema/event.json": "db/data/events/**/index.yaml",
+        "https://data.chronicle.ethevents.club/schema/series.json": "db/data/series/**/index.yaml",
+        "https://data.chronicle.ethevents.club/schema/family.json": "db/data/families/**/index.yaml",
+        "https://json.schemastore.org/github-workflow.json": ".github/workflows/deploy.yml"
+    }
+}
