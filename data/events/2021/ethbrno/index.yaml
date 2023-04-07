@@ -7,6 +7,7 @@ place: Brno
 region: europe
 country: cz
 attendees: 200
+host_name: Gwei.cz
 venues:
   - name: KC Skála
     address: Oblá 505/54a, 634 00 Brno - Nový Lískovec

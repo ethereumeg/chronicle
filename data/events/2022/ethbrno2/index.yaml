@@ -10,6 +10,7 @@ venues:
   - name: ImpactHub Brno
     address: Cyrilská 7, 602 00 Brno, Czech Republic
 attendees: 120
+host_name: Gwei.cz
 hackathon:
   hackers: 80
   hacker_application_platform: cryptpad

@@ -1,0 +1,12 @@
+name: ETHRome
+types: [ hackathon ]
+date: "2023-10-06"
+days: 3
+place: Rome
+region: europe
+country: it
+attendees: 300
+host_name: urbe.eth
+links:
+  web: https://ethrome.org/
+  twitter: https://twitter.com/ethereumrome
