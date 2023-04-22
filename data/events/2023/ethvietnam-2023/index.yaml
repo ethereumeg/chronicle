@@ -1,0 +1,13 @@
+name: ETHVietnam 2023
+series: ethvietnam
+types: [ conference, hackathon ]
+date: "2023-10-27"
+days: 5
+place: Hanoi
+region: asia
+country: vn
+venues:
+  - name: The Imperial Citadel of Thang Long
+    address: Hanoi, Vietnam
+  - name: Retreat - Halong Bay
+    address: Quang Ninh, Vietnam
