@@ -90,6 +90,9 @@
     "attendees": {
       "type": "number"
     },
+    "attendees_real": {
+      "type": "number"
+    },
     "host_name": {
       "type": "string"
     },
@@ -98,6 +101,9 @@
       "additionalProperties": false,
       "properties": {
         "hackers": {
+          "type": "number"
+        },
+        "hackers_real": {
           "type": "number"
         },
         "hacker_application_platform": {
@@ -135,6 +141,26 @@
           "pattern": "^[\\d\\.]+ [A-Z]{3}$"
         },
         "prizes": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "amount": {
+                "type": "string",
+                "pattern": "^[\\d\\.]+ [A-Z]{3}$"
+              }
+            }
+          }
+        },
+        "bounties_total": {
+          "type": "string",
+          "pattern": "^[\\d\\.]+ [A-Z]{3}$"
+        },
+        "bounties": {
           "type": "array",
           "items": {
             "type": "object",

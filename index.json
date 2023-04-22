@@ -179,6 +179,13 @@
       "country": "ie"
     },
     {
+      "id": "devconnect",
+      "name": "Devconnect",
+      "links": {
+        "web": "https://devconnect.org/"
+      }
+    },
+    {
       "id": "ethberlin",
       "name": "ETHBerlin",
       "place": "Berlin",
@@ -489,6 +496,20 @@
       "country": "us"
     },
     {
+      "id": "devconnect-istanbul",
+      "name": "Devconnect Istanbul",
+      "series": "devconnect",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-11-13",
+      "days": 7,
+      "place": "Istanbul",
+      "region": "europe",
+      "country": "tr",
+      "host_name": "Ethereum Foundation"
+    },
+    {
       "id": "ethcc6",
       "name": "EthCC 6",
       "series": "ethcc",
@@ -654,6 +675,18 @@
       }
     },
     {
+      "id": "ethlatam-2023",
+      "name": "ETHLatam 2023",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-10",
+      "days": 1,
+      "place": "Bogota",
+      "region": "latam",
+      "country": "co"
+    },
+    {
       "id": "defi-denver",
       "name": "DeFi Denver 2023",
       "types": [
@@ -691,7 +724,7 @@
       "types": [
         "hackathon"
       ],
-      "date": "2023-11",
+      "date": "2023-11-03",
       "days": 3,
       "place": "Brno",
       "region": "europe",
@@ -753,6 +786,23 @@
       ],
       "links": {
         "web": "https://protocol.berlin/"
+      }
+    },
+    {
+      "id": "ethglobal-istanbul",
+      "name": "ETHGlobal Istanbul",
+      "family": "ethglobal",
+      "types": [
+        "hackathon",
+        "conference"
+      ],
+      "date": "2023-11-17",
+      "days": 3,
+      "place": "Istanbul",
+      "region": "europe",
+      "country": "tr",
+      "links": {
+        "web": "https://ethglobal.com/events/istanbul"
       }
     },
     {
@@ -863,15 +913,57 @@
       "place": "Zurich",
       "region": "europe",
       "country": "ch",
+      "host_name": "DuckTape/PWN",
       "attendees": 800,
+      "attendees_real": 489,
       "links": {
         "web": "https://ethereumzuri.ch/"
       },
       "hackathon": {
         "hackers": 100,
+        "hackers_real": 71,
         "hacker_application_platform": "typeform",
+        "projects": 16,
         "project_submission_platform": "devfolio",
-        "project_submission_url": "https://ethereumzurich.devfolio.co/"
+        "project_submission_url": "https://ethereumzurich.devfolio.co/",
+        "prizes_total": "5000 USD",
+        "prizes": [
+          {
+            "name": "Open track - quadratic voting [1st place]",
+            "amount": "1500 USD"
+          },
+          {
+            "name": "Open track - quadratic voting [2st place]",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "Open track - quadratic voting [3st place]",
+            "amount": "500 USD"
+          },
+          {
+            "name": "Judges' favourites [1st place]",
+            "amount": "2000 USD"
+          }
+        ],
+        "bounties_total": "3750 USD",
+        "bounties": [
+          {
+            "name": "Gelato Web3 Functions",
+            "amount": "750 USD"
+          },
+          {
+            "name": "DataverseOS Web3 Functions",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "API3 DAO - Use of first-party oracles",
+            "amount": "1000 USD"
+          },
+          {
+            "name": "PWN bounty",
+            "amount": "1000 USD"
+          }
+        ]
       }
     },
     {
@@ -1250,7 +1342,8 @@
     },
     {
       "id": "devconnect",
-      "name": "Devconnect",
+      "name": "Devconnect Amsterdam",
+      "series": "devconnect",
       "types": [
         "collaborative-week"
       ],
@@ -1258,7 +1351,8 @@
       "days": 8,
       "place": "Amsterdam",
       "region": "europe",
-      "country": "nl"
+      "country": "nl",
+      "host_name": "Ethereum Foundation"
     },
     {
       "id": "ethindia-2022",
