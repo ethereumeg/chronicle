@@ -6,11 +6,35 @@ days: 3
 place: Zurich
 region: europe
 country: ch
+host_name: DuckTape/PWN
 attendees: 800
+attendees_real: 489
 links:
   web: https://ethereumzuri.ch/
 hackathon:
   hackers: 100
+  hackers_real: 71
   hacker_application_platform: typeform
+  projects: 16
   project_submission_platform: devfolio
   project_submission_url: https://ethereumzurich.devfolio.co/
+  prizes_total: 5000 USD
+  prizes:
+    - name: Open track - quadratic voting [1st place]
+      amount: 1500 USD
+    - name: Open track - quadratic voting [2st place]
+      amount: 1000 USD
+    - name: Open track - quadratic voting [3st place]
+      amount: 500 USD
+    - name: Judges' favourites [1st place]
+      amount: 2000 USD
+  bounties_total: 3750 USD
+  bounties:
+    - name: Gelato Web3 Functions
+      amount: 750 USD
+    - name: DataverseOS Web3 Functions
+      amount: 1000 USD
+    - name: API3 DAO - Use of first-party oracles
+      amount: 1000 USD
+    - name: PWN bounty
+      amount: 1000 USD

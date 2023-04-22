@@ -1,0 +1,10 @@
+name: ETHGlobal Istanbul
+family: ethglobal
+types: [ hackathon, conference ]
+date: "2023-11-17"
+days: 3
+place: Istanbul
+region: europe
+country: tr
+links:
+  web: https://ethglobal.com/events/istanbul
