@@ -766,6 +766,30 @@
       "attendees": 900
     },
     {
+      "id": "ethvietnam-2023",
+      "name": "ETHVietnam 2023",
+      "series": "ethvietnam",
+      "types": [
+        "conference",
+        "hackathon"
+      ],
+      "date": "2023-10-27",
+      "days": 5,
+      "place": "Hanoi",
+      "region": "asia",
+      "country": "vn",
+      "venues": [
+        {
+          "name": "The Imperial Citadel of Thang Long",
+          "address": "Hanoi, Vietnam"
+        },
+        {
+          "name": "Retreat - Halong Bay",
+          "address": "Quang Ninh, Vietnam"
+        }
+      ]
+    },
+    {
       "id": "protocol-berg",
       "name": "Protocol Berg",
       "types": [
@@ -804,6 +828,20 @@
       "links": {
         "web": "https://ethglobal.com/events/istanbul"
       }
+    },
+    {
+      "id": "ethwarsaw-2023",
+      "name": "ETHWarsaw 2023",
+      "series": "ethwarsaw",
+      "types": [
+        "conference",
+        "hackathon"
+      ],
+      "date": "2023-08-30",
+      "days": 5,
+      "place": "Warsaw",
+      "region": "europe",
+      "country": "pl"
     },
     {
       "id": "ethtallinn",
@@ -979,7 +1017,8 @@
             "amount": "1000 USD"
           }
         ]
-      }
+      },
+      "aftermovie": "https://www.youtube.com/watch?v=xWJoMOSDgu0"
     },
     {
       "id": "building-blocks",
@@ -1561,7 +1600,8 @@
           "name": "Independence Palace",
           "address": "135 Đ. Nam Kỳ Khởi Nghĩa, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh"
         }
-      ]
+      ],
+      "aftermovie": "https://www.youtube.com/watch?v=PzoMRwwadQs"
     },
     {
       "id": "ethgathering",
