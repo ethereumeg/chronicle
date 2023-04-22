@@ -1,0 +1,11 @@
+name: ETHMilan
+types: [ conference ]
+date: "2023-10-05"
+days: 2
+place: Milan
+region: europe
+country: it
+#attendees:
+#host_name: 
+links:
+  web: https://www.ethmilan.xyz/
