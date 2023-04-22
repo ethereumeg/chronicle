@@ -885,6 +885,21 @@
       "country": "ke"
     },
     {
+      "id": "ethmilan",
+      "name": "ETHMilan",
+      "types": [
+        "conference"
+      ],
+      "date": "2023-10-05",
+      "days": 2,
+      "place": "Milan",
+      "region": "europe",
+      "country": "it",
+      "links": {
+        "web": "https://www.ethmilan.xyz/"
+      }
+    },
+    {
       "id": "pragma-tokyo",
       "name": "Pragma Tokyo",
       "family": "ethglobal",
