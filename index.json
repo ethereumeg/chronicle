@@ -1178,6 +1178,20 @@
       }
     },
     {
+      "id": "ethday",
+      "name": "ETH Day",
+      "types": [
+        "conference"
+      ],
+      "date": "2022-04-18",
+      "days": 1,
+      "place": "Amsterdam",
+      "region": "europe",
+      "country": "nl",
+      "aftermovie": "https://www.youtube.com/watch?v=yCpU97pHwxY",
+      "host_name": "CryptoCanal"
+    },
+    {
       "id": "devcon6",
       "name": "Devcon 6",
       "series": "devcon",
