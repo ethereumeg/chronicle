@@ -12,7 +12,8 @@ venues:
 attendees: 120
 host_name: Gwei.cz
 hackathon:
-  hackers: 80
+  hackers: 200
+  hackers_real: 80
   hacker_application_platform: cryptpad
   projects: 13
   project_submission_platform: devfolio

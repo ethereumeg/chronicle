@@ -8,5 +8,8 @@ test:
 build:
 	deno run --unstable --allow-read --allow-write utils/build.js
 
+sync:
+	deno run --unstable --allow-read --allow-write utils/sync.js $(event)
+
 fmt:
 	deno fmt utils

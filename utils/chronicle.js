@@ -1,6 +1,7 @@
 import * as fs from "https://deno.land/std@0.173.0/fs/mod.ts";
 import * as path from "https://deno.land/std@0.179.0/path/mod.ts";
 import * as yaml from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
+import * as syncTools from "./sync.lib.js";
 
 export const CHRONICLE_COLLECTIONS = [
   ["families", { schema: "family" }],
@@ -85,22 +86,53 @@ export class ChronicleCollection {
   toJSON() {
     return this.items;
   }
+
+  toArray() {
+    return this.items.map((i) => i.toJSON());
+  }
 }
 
 export class ChronicleItem {
   constructor(id, col) {
     this.id = id;
     this.index = { id };
+    this.dir = null;
+    this.haveSync = null;
+    this.syncFile = null;
+    this.syncData = {};
   }
   async load(dir) {
+    this.dir = dir;
+    this.syncFile = path.join(this.dir, "+sync.js");
     this.index = Object.assign(
       this.index,
-      await _yamlLoad(path.join(dir, "index.yaml")),
+      await _yamlLoad(path.join(this.dir, "index.yaml")),
     );
+    const dataFile = path.join(this.dir, "+data.json");
+    if (await fs.exists(dataFile)) {
+      this.index = Object.assign(this.index, await _jsonLoad(dataFile));
+    }
+    this.haveSync = await fs.exists(this.syncFile);
+  }
+  async sync() {
+    if (!this.haveSync || !this.syncFile) {
+      return null;
+    }
+    const module = await import("../" + this.syncFile);
+    console.log(`syncing ${this.id} ..`);
+    if (module.data) {
+      const data = await module.data(syncTools);
+      this.syncData = data;
+      await _jsonWrite(path.join(this.dir, "+data.json"), data);
+    }
   }
   toJSON() {
-    return this.index;
+    return Object.assign(this.index, this.syncData);
   }
+}
+
+async function _jsonLoad(fn) {
+  return JSON.parse(await Deno.readTextFile(fn));
 }
 
 async function _yamlLoad(fn) {
