@@ -1019,7 +1019,996 @@
           }
         ]
       },
-      "aftermovie": "https://www.youtube.com/watch?v=xWJoMOSDgu0"
+      "aftermovie": "https://www.youtube.com/watch?v=xWJoMOSDgu0",
+      "contributors": [
+        {
+          "name": "Claudio J. Tessone",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH Blockchain Center",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3dg8L4YM5p9nAM2z07hpbk/c87914c315f6ba7eaf4c76bac715e99b/62179829e27076081d55132e_Claudio_Tessone_Colored-min.png"
+        },
+        {
+          "name": "Jordi Baylina",
+          "twitter": "jbaylina",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Polygon Hermez",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6F77rBXBHvnx3pfwVzbfV5/59bc9e9d6756df18a0a0b145ed4d910f/1558193510638.jpg"
+        },
+        {
+          "name": "Piper Merriam",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Ethereum Foundation",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3H3baIcMkObWHs5LIXTuPk/7282f7576870dfc0babcb896d68c3cf5/170727por4020-1--copy-1_sXVkW4P.jpg"
+        },
+        {
+          "name": "Hilmar Orth",
+          "twitter": "hilmarxo",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Gelato",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5iALyWf2ZsjCqAHGez7Xn9/1ecce69cdf2c034b3691e12c2f98bc9b/1667604897445"
+        },
+        {
+          "name": "Mário Havel",
+          "twitter": "tmiychao",
+          "roles": [
+            "speaker",
+            "judge"
+          ],
+          "caption": "Ethereum Foundation",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3XSG1nFzSYBQTSYp0Yed46/4cdf8435449e2af9cc4d9307822dca77/mario-havel.jpg"
+        },
+        {
+          "name": "Maria Magenes",
+          "twitter": "mariamagenes1",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Oasis.app",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2Q36dm2GVE60FPhWSLvjMw/4d2555cc820a50df8c9125f392f56021/Screenshot_2022-11-08_at_03.15.35_aIbSLRz.png"
+        },
+        {
+          "name": "Arthur Gervais",
+          "twitter": "ArthurGervais_",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "University College London & UC Berkeley",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3S9psjNthlOoMlUDq3x4zu/03b7bb0cfa923e914c006393b2767cce/arthur_cSc3O6q.png"
+        },
+        {
+          "name": "Josef",
+          "twitter": "JosefJ_",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "PWN",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/595DfKEpClnxiyJ3OlBh3E/5b854ad14e22876c224e3d2475da3e9b/joje.jpg"
+        },
+        {
+          "name": "Valerio Stallone",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Zurich University of Applied Sciences",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/70YYNjkS8sAo8ds08w9ExF/848a93b8edb4fe7b58cc2be86e70bfa0/210518_stlv_avatar_xcf2JmW_1_.jpg"
+        },
+        {
+          "name": "Henri Lieutaud",
+          "twitter": "henrlihenrli",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Starkware",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3lHSb47GdB2HQ10O4hAckL/d2d11fa53c603f8c47e4d0de147bdabd/________-scaled-e1653809390434.jpg"
+        },
+        {
+          "name": "Gar.re/tt",
+          "twitter": "bitcoingarrett",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Tuku.dev",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/Lskl3tPxk7NQ09rChcRB2/ca9a85f97efb60acfc5d9f29b8b66028/IMG_20230119_144306_026_1_ECWLkVO.jpg"
+        },
+        {
+          "name": "Torgin Mackinga",
+          "twitter": "MTorgin",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ChainSecurity",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4Xkl4XEOoSJId5n776Chlf/5c6d3b8aec183355664d5f597ed4049a/photo_2022-02-08_14-11-31_fuIRrRL.jpg"
+        },
+        {
+          "name": "Miao ZhiCheng",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Superfluid",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2kuO0pJcKjtkA3gEel8qcr/2d547767eec1dad700071555644fb980/1600767787079_CNBwmYN.jpg"
+        },
+        {
+          "name": "Marcus Wunsch",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Zurich University of Applied Sciences",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/70OgAE05DqddPlvr0E6Nsu/64499b1b57d40b66de7255da58ec675e/mw_portrait_rdc_2_XdUUUj9.jpg"
+        },
+        {
+          "name": "Wei Jie Koh",
+          "twitter": "weijie_eth",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Geometry",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7zsQu5kSqRQf1AwHnkB1t7/a06171206499ba73677239d7d5410256/ethzurichheadshot_BOzAhJT.png"
+        },
+        {
+          "name": "Mara Schmiedt",
+          "twitter": "MaraSchmiedt",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Alluvial",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/49CX7Wbwvv1te1HNLuRHpp/a389e39f0b37663f217b9a8d79753231/Mara_Schmiedt_Headshot_Small_sHbMs6u.jpg"
+        },
+        {
+          "name": "Paul Claudius",
+          "twitter": "pclaudius",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "DIA",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6IMXEMOcj6AYeDyK0QmYYX/9e082277b749b8f81c8f9e189b42bd4a/PC_Square_3ZaI5Vp.jpg"
+        },
+        {
+          "name": "Daniel A. Nagy",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Swarm",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3NI7VQllOOCjsejFLemICE/204500bc0774df6935b12105355b0830/me2022_EmTOYjS.jpg"
+        },
+        {
+          "name": "Luzius Meisser",
+          "twitter": "Luzius",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Bitcoin Suisse",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2e2UZlOTVjwswdfa4xtAEI/b8555524ff3e15028b8f6b116ccb9e32/1623673331302.jpeg"
+        },
+        {
+          "name": "George Kobakhidze",
+          "twitter": "sick_nerdballer",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ConsenSys Diligence",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5D8pgGIcmND5XXr31qnbq3/064a77ae5cc46a3716fce180d5516ed2/george_3YiJWjf.jpg"
+        },
+        {
+          "name": "Michael Kunz",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "MME",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/mEoi1QXbVQCQmyMfntnNn/19aeaf41ff8740fad28a220afa81a447/MME_Team_Michael-Kunz_Wdp1vju.jpg"
+        },
+        {
+          "name": "Ignacio Manzur",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "nethermind",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5n2Dn8Wt4Mmr5vx5TWhqkH/20eaeb61e90355aaee877f3944dd3d92/IMG_2036_2_kEuelKu.jpg"
+        },
+        {
+          "name": "Steffen Schuldenzucker",
+          "twitter": "sschuldenzucker",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH Computation and Economics Research Group",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2w3Rz02GbJUq2kPoRKnfWf/e21f4977bd62a9d2fedf16c0f68f4856/06f88fb354030855e3292ad875e833be.jpeg"
+        },
+        {
+          "name": "Garry Krugljakow",
+          "twitter": "GarryKrug",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "0VIX",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/mEAxqa0UXFGKHgv117upF/f4c830bbb77c52e48648f49a70538362/Garry-Krugljakow-VAI-Trade-903x1024.jpg"
+        },
+        {
+          "name": "Chaals Nevile",
+          "twitter": "chaals",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Enterprise Ethereum Alliance",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/18jL238OROMeltpViSq94p/30070bebee9ef3980f015af87e7a4300/setSepia_JfmzK1z.jpg"
+        },
+        {
+          "name": "Nicolas Le-Bel",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Crypto Bank Sygnum",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1Viw5fbRZn629cf2bsqxXk/b7417482aca2ecb3ba97b39c7889190a/1602780674534_Iu28wJB.jpg"
+        },
+        {
+          "name": "Alessandro De Carli ",
+          "twitter": "a_d_c_",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Papers.ch",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3ep5TydRcY7crtemOHNKlY/c09a4c7591f26c961b630c0a4f96352b/1569939332895.jpeg"
+        },
+        {
+          "name": "Tim Weingaertner",
+          "twitter": "WeingaertnerTim",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Lucerne University of Applied Sciences and Arts",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/YEvm3ZIsrkVwWloiLWfzB/6363d5062f694cff1bf3fca6163146cb/Weingartner_Tim_mittel_Kopie_sTB78MH.jpg"
+        },
+        {
+          "name": "Felipe Cardoso",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Rubicon",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4WTUMwGw3J0GHR0EHyh4Ww/805822bd24b2baaf5323a1a9765ad94b/felipe_cardoso.jpg"
+        },
+        {
+          "name": "Michael Svoboda",
+          "twitter": "svobodamichael",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Liquity",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/QVOlG4qz3NEurTiHS4Yti/8a3b0499bde1992227e83539f72e35d0/michael.png"
+        },
+        {
+          "name": "Akaki Mamageishvili",
+          "twitter": "kakia1989",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Offchain Labs",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/257H8Wpj9KlY6ZrDH35sgS/094d5cb84f5536ad35d76ce79dda6c40/akaki_YNcG9KX.png"
+        },
+        {
+          "name": "Silur",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Wigner's research centre of physics ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/dt6xexXUdzjIlBe9miesS/7416749268b361313ade8451baea41a4/photo_2023-01-16_17-59-18_D5lIHCF.jpg"
+        },
+        {
+          "name": "Anne-Grace Kleczewski",
+          "twitter": "blocktheotter",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Crypto Valley Association",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/rWXcyVAVb2FawksquaddC/5bbc15007397ba2702abb7e69d94e068/8829_anne_grace_kleczewski_ilf_rolle_2022_simeon_mHMSpzZ.jpg"
+        },
+        {
+          "name": "Krzysztof Gogol",
+          "twitter": "cYanusTech",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH DEPARTMENT OF INFORMATICS",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5KyF21xtQvgOw0dScDtI8c/03df11f458159b82c4f949f2223ccdd8/gogol_foto_wR89xkc.jpeg"
+        },
+        {
+          "name": "Florian Spychiger",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH BLOCKCHAIN CENTER",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2IVGDWdk0FO6v2VxriNIEE/7c8a627ea9256f01f5af223637bcaac3/Florian_Spychiger_jAj65x0.JPG"
+        },
+        {
+          "name": "Alexis Roussel",
+          "twitter": "alexis_roussel",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "nymtech",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/73VgKemwfedgX2MlWGfxvq/de08f901e7b1acead729127930a5ca7f/Alexis_Roussel_-_COO_512x512_01sYlVJ.jpg"
+        },
+        {
+          "name": "Roman Böhringer",
+          "twitter": "romanboehr",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Oak Security/Solidify, ETHZurich",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7GpfNHnSJfOAGlqixo9Wnl/075fa646134be88a665b2f503af71620/IMG_6350_512_lgo7C5e.png"
+        },
+        {
+          "name": "Rachel-Rose O'Leary",
+          "twitter": "lunar_mining",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "DarkFi ; Agorism In the XXIst Century",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/tr4EuBYBA2of2ykOVRKX2/c5829836d564d707bea3b3712a86ff16/ikqsOZMG_400x400.jpg"
+        },
+        {
+          "name": "Ben Carvill",
+          "twitter": "Ben_blackwhite",
+          "roles": [
+            "mentor",
+            "speaker"
+          ],
+          "caption": "API3 DAO",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4VLmENXFFzYetLsaLmXb3a/1111ed9f50fad9282f2b3ee55246d575/photo_2023-04-06_12-43-31.jpg"
+        },
+        {
+          "name": "Nicola Dimitri",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH BLOCKCHAIN CENTER",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/wLeagWHEYgWPjFo8GZIMR/84e99823285f1260445328c2d518f972/Dimitriphoto_MdzKf1x.jpg"
+        },
+        {
+          "name": "Viktor Tron",
+          "twitter": "zeligf",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "swarm",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/25fAdE7vxeGacXgbg5i1j7/ba2ae1fd30c988f6020d2cf4d3ac523f/me-ethdev-bw_7dqaeWS.jpg"
+        },
+        {
+          "name": "Daniel Diemers",
+          "twitter": "DanielDiemers",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "SNGLR Group",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/8i7qN0LCVPM6Z403BBml4/989849fca8739cd1109ab69b9ce5b0d5/Dimmers.jpg"
+        },
+        {
+          "name": "Wolfgang Amadeus Vitale",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Bitcoin Suisse",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/62iDmnS9cSfnjqm72EIPH5/8c8e1ee829795e2235a4b15ff10628b8/Wolfgang_Vitale_eZzKRGW_1_.jpg"
+        },
+        {
+          "name": "Marcin Kazmierczak",
+          "twitter": "Marcin_Kaz13",
+          "roles": [
+            "speaker",
+            "mentor"
+          ],
+          "caption": "RedStone ; Warp.cc ; ETHWarsaw ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6BS4oifI5LDCVr4COXgDc7/6a40693de5ce74114e6f7258dbecbc4d/Marcin_Kazmierczak_zdjecie_fhjfP4N.jpg"
+        },
+        {
+          "name": "Matteo Alessio Tambussi",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "   Stake Capital    ;   SpaghettETH",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3wxDlrK15rgLEWMgoDSCbx/5180c0f178f73c02b625d95d613a5015/gY1XlUk-_400x400.jpeg"
+        },
+        {
+          "name": "Oliver Feldmeier",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "SMART VALOR",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1fT20XKc9svQ538hIV0Bwj/6d19dc01eb10841ecabb62b42fb6c303/Oliver_Feldmeier.jpg"
+        },
+        {
+          "name": "Nicola Massella",
+          "twitter": "nicola_massella",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "STORM Partners ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1erLO4AljjVdMMrSaECSDO/7402ab955f794d84f659da102c401b74/1614691963701.jpeg"
+        },
+        {
+          "name": "Isla Munro-Hochmayr",
+          "twitter": "0xisla",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "FTW DAO ; Safe Foundation ; DAO Suisse",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/FvAnpdDo9WYh8vIaj8AIx/475b71231bd83c0876f4abc3efc733f9/Isla-Munro-Hochmayr_X942Ijf.png"
+        },
+        {
+          "name": "Nik Kunkel",
+          "twitter": "nomos_paradox",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ChronicleLabs",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7HpIWMY6f2P7eKRwmNK8MG/60f653b79d67be6c231c7a6cd7419ccb/IMG_6970_V2FzVlg.JPG"
+        },
+        {
+          "name": "Amir Taaki",
+          "twitter": "Narodism",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "DarkFi",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2HxFvK45ogHecDv0FbrgPO/908f9561fd83a63f59c51f5e42bc4c61/AmirTaaki_um9UHjW.jpeg"
+        },
+        {
+          "name": "Sheraz Ahmed",
+          "twitter": "CryptoSherazo",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Crypto Valley Association ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2zhPbRrmxiCng7zuNRYrG5/669719ee4cc84b9f9e827a747bc5eaa0/1582644472183.jpeg"
+        },
+        {
+          "name": "Christoph Schlegel",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "City, University of London ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2js2RRzfRHeekWex09m7iG/68175d4af3c399a863288a833928d81e/unnamed-663x1024_uzLXtUN.jpg"
+        },
+        {
+          "name": "Michael",
+          "twitter": "mm319",
+          "roles": [
+            "speaker",
+            "mentor"
+          ],
+          "caption": "Pillar Project; Etherspot",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1VGunC9rKTqeeucscJPmhY/c43975c84bf3ccb58e1d9113cd495769/Michael_Bngbthf.png"
+        },
+        {
+          "name": "Arnaud Castillo",
+          "twitter": "ArnaudCuperto",
+          "roles": [
+            "speaker",
+            "mentor"
+          ],
+          "caption": "CrunchDAO",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/68zzfr6eYTMwj3SIqb3sbg/bfc1ed918de66fe54836027e4b4dc9e9/arnaud.jpg"
+        },
+        {
+          "name": "Pablo Baiocchi",
+          "twitter": "PablitoBBL",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Santiment",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6UbCIxkV4Gw6BDFWgrIg0e/9e182060616ff7d8d31edcd9e363ebd5/Screen_Shot_2023-03-08_at_19.36.56_kwjf5j7.jpg"
+        },
+        {
+          "name": "Nicolaj Förderer",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "VERITIC ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5kI6O6XtAyGR61jJbqysfl/c675da106f39d22088c2f995e11aef5d/1636097311308.jpg"
+        },
+        {
+          "name": "Ravital Solomon",
+          "twitter": "ravitals",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Sunscreen",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4y7bq1NKBeqYgxBUeNR1Jv/6ae5d15a14e176e872e0f4c6f7df6c09/headshot_hFWFg5k_1_.jpg"
+        },
+        {
+          "name": "Wlodek Gogloza",
+          "twitter": "wgogloza",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Wildland",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2LgpZxq5GwKtu9vkL7hXX9/954f38bda4da7136cf21f0a2bb61f302/wlodekgogloza_8HHBoFc.jpg"
+        },
+        {
+          "name": "Michal Převrátil",
+          "twitter": "michprev",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Ackee Blockchain",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1O3LQLJw0LUZ7puJCN38cb/f7812d4d1dead2267f739b388c84c050/1673510206362_6Ttl4yg.jpg"
+        },
+        {
+          "name": "Petter Ikekhua",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Kiln",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/2ghpVpNpV04eg3zNq2NCoI/8ae1cf5048f3600881d5c1b13a2e9833/1625474051701.jpeg"
+        },
+        {
+          "name": "Yessin Schiegg",
+          "twitter": "YessinSchiegg",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Near Foundation",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5nARtQLobOtZBprKQdK9D6/9b1afc5d53f6ef4ea951c4a80266f4f2/Yessin.jpg"
+        },
+        {
+          "name": "Oxytocin",
+          "twitter": "0x_Ytocin",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ParaSwap",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5bwi8j962E7IqmiwtqWGxA/4adf6d1d47642b6b373af13de7d879a3/Projeto_225_5_HZFNA5N.png"
+        },
+        {
+          "name": "Sebastien",
+          "twitter": "0xsebastiena",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "matterlabs",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6GfPvZO9R1ambOUL7bYqpI/30cc55f92e5c14c7f9302c615c94631d/birdie_gRcV6im.jpeg"
+        },
+        {
+          "name": "Tino Breddin",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "HOPR",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3ASv3yBtGG1jIdTqRnAhkm/0d4f7bc83d3922ec194a6d06115719cc/1516305182130.jpeg"
+        },
+        {
+          "name": "Romain",
+          "twitter": "Figue_me",
+          "roles": [
+            "speaker",
+            "mentor"
+          ],
+          "caption": "Paladin",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4P32hbqDKbUMEId3KSItnb/a0bf47232c601588dc180b73a9a8cf6d/0_AUnEOi4.jpg"
+        },
+        {
+          "name": "Anton Astafiev",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "matterlabs",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5UhxZmoO5TuqCgk3ERwXFk/e0c5f3edcbd0a6cf2327bdfaaefa7414/1604135541328.jpg"
+        },
+        {
+          "name": "Jose Ramirez",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "palmeradao",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/sEvDA4kKfZT5OgPR5GRLn/a2e72966eefde355c59f677c687da13b/proflie_conf_building_blocks.png"
+        },
+        {
+          "name": "Lior Zaks",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "stake capital",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/QOGKXmvPZVGv1nsBfjc2M/5be9f3a07d53d11d441ed122ad8c7307/1608627976112.jpg"
+        },
+        {
+          "name": "Anton Permenev",
+          "twitter": "a_permenev",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "chainsecurity",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/23ySRBGGEvLiXBC85hVJRN/8d6848c2bfd81baa49fa6b026d17d63f/pic_CcY4mFu.jpg"
+        },
+        {
+          "name": "Abena Asante",
+          "twitter": "abena_eth",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "SheFi / Bankless Africa / UZH",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/200V9jNVxyP4ER2EQV3wlm/2b49ddb529051a7cab3ae9505bd2d12c/ProfilePicture_Abena_RkMM6pK.jpg"
+        },
+        {
+          "name": "Honza",
+          "twitter": "jaczkal",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Ackee Blockchain",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7DqsWE07SfZI1FdNdCVQe8/99c42bfe2d2488c06a7423e4a2b26248/me_4aqOaCY.jpg"
+        },
+        {
+          "name": "Naim Ashhab",
+          "twitter": "ashhanai",
+          "roles": [
+            "judge"
+          ],
+          "caption": "PWN",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/wj7RQxGOQI8qB0w6X3CUK/5011dde0930aebe6ecefdf780d03aebf/photo_2023-04-11_20-43-31.jpg"
+        },
+        {
+          "name": "Robin  Kunz",
+          "twitter": "robinkunz_",
+          "roles": [
+            "speaker",
+            "mentor"
+          ],
+          "caption": "Blokssom",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/354ljBmazIA7I9fiSArTCc/9711eb12cf633c6c44be2b508a8b0348/7GtBrsKp_400x400.jpg"
+        },
+        {
+          "name": "Christian Killer",
+          "twitter": "killercsecurity",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH - Communication Systems Group ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5dTlSTcCEJsHbzoNKxHxCg/ffc5c42b135efa9be1276e6ea16aaf4a/IMG_2495-2-mid_C11RsND.jpg"
+        },
+        {
+          "name": "Haoqian",
+          "twitter": "thisishaoqian",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "EPFL - School of Computer and Communication Sciences",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3B1LexxlJiDlGZJKvHlQaN/0d25866d6157a0ef5a2cee21cd87b18c/_____________BucBwoE.jpg"
+        },
+        {
+          "name": "Tomas Forgac",
+          "twitter": "TomasForgac",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Unicrow",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1xxELVOsYRjvobqEiD40iw/09b1b34e53bd4ab3737403e7c0b028e6/profile-photo_mZxvVhl.jpg"
+        },
+        {
+          "name": "Nicolo Vallarano",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "UZH - Blockchain and Distributed Ledger Technologies",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3v6GOOYc3NduaLdJG9Obiq/a078ce4b542c9a093d9b2f3f6977fd3f/Nicol___Vallarano.2021-11-01-11-28-57_OiLjENt.jpeg"
+        },
+        {
+          "name": "Andy Pavia",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Swissblock",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1JQdHYmfWCF6oPovFXUhCn/6b6373a46e97b13fbab0d6f1b29c39a6/1673895856971.jpg"
+        },
+        {
+          "name": "Laurence Kirk",
+          "twitter": "extropyLaurence",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "extropy.io",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3vO0KZYwGkdqKK5KF3qy1G/b71366cb3882c055d81191e7140f0e6d/e5ecaf7b4fa490013bd899069491c5d2.jpeg"
+        },
+        {
+          "name": "Nicolai Reinbold",
+          "twitter": "ReinboldNicolai",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "CV Labs",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5QYrjv0oOHubi8oTzupq2x/8670085b704f037a2f20a72d9037ca18/1604902922165.jpg"
+        },
+        {
+          "name": "Rick Weber",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Sunscreen ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5aaY5glyvpX94LktqhHr0p/a5a7220d7ed3eee87631efa4005a6e8e/1517756929185.jpg"
+        },
+        {
+          "name": "Nebojsa Urosevic",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "tenderly",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1GnqogkHpobVvZSEG2I6Ix/0146852fd1827d9aee16fc25b75f0b9c/1613302693749_CRIa3Mc.jpg"
+        },
+        {
+          "name": "Martijn de Vos",
+          "twitter": "devos50",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "EPFL",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5DsZIsqWx0CqtJLkt6V49x/0826689e019227d8efc7675cbdb4b5dc/csm_Martijn_de_Vos_3a728c687d.webp"
+        },
+        {
+          "name": "Marc Degen",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "TRUST SQUARE",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/53GYTFTZ1K78Gx3U2WChPT/8b30231f7284f02cb0f55560c0767a86/1516236549156.jpg"
+        },
+        {
+          "name": "Georgy Ishmaev",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Delft Blockchain Lab",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3XcHLlThHCaMiXjxNt0PG7/9819334455e3e5ac7ada289f9e9e33eb/Ishmaev_G_ufdSH4F.png"
+        },
+        {
+          "name": "Victoria Citterio-Soelle",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "FTW DAO",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/77fiHiF8ig3nfMcsGYlUP5/954912b59e2d21eba0f28b10a13e69ed/signal-2023-04-03-110143_002.jpeg"
+        },
+        {
+          "name": "Georgios",
+          "twitter": "geogont",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Gnosis Hashi",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/OQlcGO8FZSjUOxQSGDlkk/b34eacf6cab295b1f50b325128eb610e/newPunkSmall_5Ws3VWa.png"
+        },
+        {
+          "name": "Gaspard Peduzzi",
+          "twitter": "GaspardPeduzzi",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "APWine",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/DpQY2Re07kD2lHFchBCFj/07f35bd40ef500b45c93a676068c16b7/Gaspard_nrHAgKR.jpeg"
+        },
+        {
+          "name": "Andrija",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "geometry",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3ikQTW8HMYcRbXQYS5nkEX/52a50951a39ab3e2fb5d2271e7ce8b76/1654795743867.jpg"
+        },
+        {
+          "name": "Mostafa Chegenizadeh",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "University of Zurich",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/62I6uQBNgnP5DD4unj93oi/17eda5ed9bf338fe4cd0ded5d2fdb2dd/photo_2023-04-04_15-02-58.jpg"
+        },
+        {
+          "name": "Csaba Kiraly",
+          "twitter": "codexstorage",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Codex",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5w9kVgz5KlnbQEFMGzuby8/d3162fac6b5e27274200d4cc4b78a361/self_bOMmCTf_1_.jpeg"
+        },
+        {
+          "name": "Nick Almond",
+          "twitter": "DrNickA",
+          "roles": [
+            "mentor",
+            "speaker"
+          ],
+          "caption": "FactoryDAO",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/ugEL8q9KB2avANPABvQ2j/2f50799d07bb148c3d41f12fcf04842c/photo_2023-04-06_21-35-01.jpg"
+        },
+        {
+          "name": "Niklaus Knecht",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "papers",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4sFXr752ffkowpov1lhARc/25f237057edf7f475e1c7d08cbe2a5db/Niklaus_Knecht.jpg"
+        },
+        {
+          "name": "Pascal Brun",
+          "twitter": "IAmPascalB",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "papers",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4rGPWXLslNWcDUvOfndxUC/8eeaa452b503c1b8354dd598885722b0/Pascal_Brun.jpg"
+        },
+        {
+          "name": "Matija Piskorec",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "Rudjer Boskovic Institute & BDLT group at University of Zurich",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1OtJQKPJxlEtkRRhF7wxav/0eea5cdd7154360f153cd5578e6a36a2/photo_2023-04-04_15-05-22.jpg"
+        },
+        {
+          "name": "Thomas Bocek",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "Axelra AG / Ostschweizer Fachhochschule",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6rjc9oIvZF3GhvtYLCjBDe/e57d97254f7838897a1e1b817138efd3/photo_2023-04-04_15-04-20.jpg"
+        },
+        {
+          "name": "Artem",
+          "twitter": "SecuritaAegis",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Aragon",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4iUNymSYuQZx4tfazckLCl/71f71f62e315f882f659431f20c527e8/1660410059951_XvL8OnC.jpg"
+        },
+        {
+          "name": "Amin B.",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "swissDAO / GrizzlyFi",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1OnRz65Xi9vsARCN8mZNXo/9c09f363a4d6806b24701a7571a4e259/photo_2023-04-11_08-48-38.jpg"
+        },
+        {
+          "name": "Zaniyar Jahany",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "METAROOM | SWISSDAO | ZHAW",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6gFp81IdpWK6F15mtpimGQ/18859290734fa31be4cb33eb311aa087/photo_2023-04-11_08-49-25.jpg"
+        },
+        {
+          "name": "Yuda",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ETH Zurich",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7kcPoIG2UAkYfgn0wSvOXq/86c684a476023b8a57fe4f1cb037383e/pro_rUgxF28.png"
+        },
+        {
+          "name": "Eduard Grün",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Festo",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6sakFMDmH9IZFEeCVNzZGG/0720510eba7ecfcee87e5ebb671b45f4/Profilbild-Kopf_egruen_raTrVHG.jpg"
+        },
+        {
+          "name": "Shyam Duraiswami",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "Runtime Machines",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4bmvtwyJQy5WPrwZCItwEr/81731e46fa2627ac8f875e4a84e92df5/photo_2023-04-11_19-48-36.jpg"
+        },
+        {
+          "name": "Una Wang",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "ETH Zurich",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/40HfCDPrfFOYOLcwL8h2P9/16ca49d8ace3ce79b7850115651b137e/photo_2023-04-13_13-18-29_zdbpRy7.jpg"
+        },
+        {
+          "name": "Mark Greenslade",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Casper Association ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7hdVdx3db5l5USKSqREBgC/99b49709d6dce2282524ef47cd8a1fec/1516275101323_8O4vQS1.jpg"
+        },
+        {
+          "name": "Robert Zaremba",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Umee",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7v1DZjGjoiFq0YPJrCnGsF/8c7f6012d0475622435c7fff7ab272fd/robert3-bw_THuYuuI.JPG"
+        },
+        {
+          "name": "Daniel Gasteiger",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Procivis AG",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/1D4aCMYMycjGmpkDQkHSzP/ec1aefc2705961fba0de537ab434e4a2/1517529941061.jpg"
+        },
+        {
+          "name": "Daniel Saeuberli",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "DIDAS",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/owrCw6wd2NgGJYwO8tRLW/6db0f17e7c6a5e710459b14270901aeb/1678145903833.jpg"
+        },
+        {
+          "name": "Marco Marinelli",
+          "twitter": "0xmrnmrc",
+          "roles": [
+            "judge"
+          ],
+          "caption": "Efiko",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/3PJ6v1DAsMzvEQ7pYKVTvU/da1a44f75a9ba9ae9129ad93826c7ccf/photo_2023-04-13_11-33-04.jpg"
+        },
+        {
+          "name": "Josephine Samvelyan",
+          "twitter": "swissnftassoc",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Swiss NFT Association ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/o9sZXD4FuKntm4BraKqlW/98116f36d2813bae054a0cb4f602c978/Josephine_Photo_zPieb4A.jpg"
+        },
+        {
+          "name": "Taulant Kryeziu",
+          "twitter": "tauliiuu",
+          "roles": [
+            "judge"
+          ],
+          "caption": "0VIX Protocol",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/7tqF3V2AT2NDuM2HgXgqBA/eba936c629dfc4f94e09261ec572c33d/photo_2023-04-16_09-19-52.jpg"
+        },
+        {
+          "name": "Clifton King",
+          "roles": [
+            "judge"
+          ],
+          "caption": "Dialectic",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/8OoFcRHE78CBTPe8ZRZ6d/2fc7734eb41cc2700320a797743842c8/photo_2023-04-16_09-22-41.jpg"
+        },
+        {
+          "name": "Nicolaj Förderer",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "VERITIC ",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/5kI6O6XtAyGR61jJbqysfl/c675da106f39d22088c2f995e11aef5d/1636097311308.jpg"
+        },
+        {
+          "name": "Magnus Hinkel",
+          "twitter": "cliftonk",
+          "roles": [
+            "judge"
+          ],
+          "caption": "Dialectic",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/6TaitjZq30cv04BLufq7Vc/c6979f5cc74416b3f036348de0a08dd5/photo_2023-04-16_12-02-00.jpg"
+        },
+        {
+          "name": "Alexander Brunner",
+          "twitter": "Swiss_Tech_Alex",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "Crypto Nation Switzerland",
+          "image": "https://images.ctfassets.net/6j1me6tz5h39/4Za9awNufzJGbQWmeDtJmF/94608da7dc07eb69a47ed3d31ab925c7/af_yeVAkqZ.jpg"
+        }
+      ]
     },
     {
       "id": "building-blocks",
