@@ -1,11 +1,22 @@
 import cheerio from "https://esm.sh/cheerio@1.0.0-rc.12";
 import { ensureDir, exists } from "https://deno.land/std@0.173.0/fs/mod.ts";
+import * as yaml from "https://deno.land/x/js_yaml_port@3.14.0/js-yaml.js";
 
 const CACHE_DIR = "./cache";
 
 export async function loadJSONUrl(url, options) {
   const resp = await fetch(url, options);
   return resp.json();
+}
+
+export async function loadYAMLUrl(url, options) {
+  const resp = await fetch(url, options);
+  return yaml.load(await resp.text());
+}
+
+export async function loadTextUrl(url, options) {
+  const resp = await fetch(url, options);
+  return resp.text();
 }
 
 export async function loadHtmlUrl(url) {

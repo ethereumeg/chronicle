@@ -138,3 +138,33 @@ properties:
     additionalProperties:
       type: string
       format: uri
+  contributors:
+    type: array
+    items:
+      type: object
+      additionalProperties: false
+      properties:
+        name:
+          type: string
+        twitter:
+          type: string
+          pattern: "^[a-zA-Z0-9_]{2,15}$"
+        github:
+          type: string
+          pattern: "^[a-zA-Z0-9_-]{2,15}$"
+        image:
+          type: string
+          #format: uri
+        caption:
+          type: string
+        roles:
+          type: array
+          items:
+            type: string
+            enum:
+              - judge
+              - mentor
+              - speaker
+              - team
+              - advisor
+              - volunteer
