@@ -956,7 +956,7 @@
     },
     {
       "id": "ethereumzurich",
-      "name": "EthereumZuri.ch",
+      "name": "EthereumZurich",
       "series": "ethereumzurich",
       "types": [
         "conference",
@@ -1258,7 +1258,781 @@
         "project_submission_platform": "devfolio",
         "project_submission_url": "https://ethberlin.devfolio.co/",
         "prizes_total": "56000 USD"
-      }
+      },
+      "contributors": [
+        {
+          "name": "Manu Alzuru",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/ManuAlzuru-DoinGud.jpg",
+          "twitter": "ManuAlzuru",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[DoinGud](https://doingud.com/)"
+        },
+        {
+          "name": "Marek Sandrik",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/MarekSandrik_Rockaway.jpg",
+          "twitter": "_mareksan_",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Rockaway](https://rbf.capital/)"
+        },
+        {
+          "name": "dcbuilder",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/dcbuilder_Worldcoin.jpeg",
+          "twitter": "DCbuild3r",
+          "github": "dcbuild3r",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Worldcoin](https://worldcoin.org/)"
+        },
+        {
+          "name": "Florian",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Florian_CommonGround.jpg",
+          "twitter": "heckerhut",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Common Ground](https://www.commonground.cg/)"
+        },
+        {
+          "name": "Gonçalo",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Gonçalo_ConsenSys_Diligence.png",
+          "twitter": "GNSPS",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[ConsenSys Diligence](https://consensys.net/diligence/)"
+        },
+        {
+          "name": "Hilmar",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/hilmar_gelato.jpg",
+          "twitter": "hilmarxo",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Gelato](https://www.gelato.network/)"
+        },
+        {
+          "name": "Joseph Schweitzer",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/JosephSchweitzer_EthereumFoundation.png",
+          "twitter": "JBSchweitzer",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Ethereum Foundation](https://ethereum.org)"
+        },
+        {
+          "name": "Lukas Schor",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/LukasSchor_Safe.png",
+          "twitter": "SchorLukas",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Safe](https://gnosis-safe.io/)"
+        },
+        {
+          "name": "Muhammed Tanrıkulu",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/MuhammedTanrıkulu_ENSDomains.jpeg",
+          "twitter": "md_tanrikulu",
+          "github": "mdtanrikulu",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[ENS Domains](https://ens.domains/)"
+        },
+        {
+          "name": "Praneeth",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Praneeth_EtherealVentures.png",
+          "twitter": "bees_neeth",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Ethereal Ventures](http://www.etherealventures.com/)"
+        },
+        {
+          "name": "Stani",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Stani_Aave.png",
+          "twitter": "StaniKulechov",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Aave](https://aave.com/)"
+        },
+        {
+          "name": "Yaoqi",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Yaoqi_AltLayer.jpg",
+          "twitter": "jiayaoqi",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Alt Layer](https://altlayer.io/)"
+        },
+        {
+          "name": "Yaz Khoury",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/YazKhoury_Celestia.jpeg",
+          "twitter": "Yazanator",
+          "github": "YazzyYaz",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Celestia](https://celestia.org/)"
+        },
+        {
+          "name": "Abbey",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Abbey_Radicle.jpg",
+          "twitter": "abbey_titcomb",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Radicle](https://radicle.xyz/)"
+        },
+        {
+          "name": "Prestwich",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/Prestwich_Nomad.jpg",
+          "twitter": "_prestwich",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Nomad](https://www.nomad.xyz/)"
+        },
+        {
+          "name": "Luis Bezzenberger",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/LuisBezzenberger_ShutterNetwork.jpg",
+          "twitter": "bezzenberger",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Shutter Network](https://shutter.network/)"
+        },
+        {
+          "name": "Aqeel Mohammed",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/aqeelmohammad.jpg",
+          "twitter": "qnou",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Ethereum Foundation](https://ethereum.org)"
+        },
+        {
+          "name": "Dani Osorio",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/DaniOsorio_MetaWebVentures.jpeg",
+          "twitter": "waverlymaven",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[MetaWeb Ventures](https://www.metaweb.vc/)"
+        },
+        {
+          "name": "Minsi Wang",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/MinsiWang_EspressoSystem.jpg",
+          "twitter": "minsiw",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Espresso Systems](https://www.espressosys.com/)"
+        },
+        {
+          "name": "Kenny Li",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/judges/KennyProfile.jpeg",
+          "twitter": "superanonymousk",
+          "roles": [
+            "judge"
+          ],
+          "caption": "[Manta Network](https://manta.network/)"
+        },
+        {
+          "name": "Hadrien Croubois",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/HadrienCroubois_OpenZeppelin.jpg",
+          "github": "Amxx",
+          "twitter": "Amxx",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Open Zeppelin](https://openzeppelin.com)"
+        },
+        {
+          "name": "iqdecay",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/iqdecay_FuelLabs.jpg",
+          "github": "iqdecay",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Fuel Labs](https://www.fuel.network/)"
+        },
+        {
+          "name": "Ali Nuraldin",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/AliNuraldin_OpiumNetwork.jpg",
+          "github": "alirun",
+          "twitter": "Ali_run",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Opium Network](https://opium.network/)"
+        },
+        {
+          "name": "Dominik Muhs",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/DominikMuhs_ConsenSysDiligence.jpg",
+          "github": "dmuhs",
+          "twitter": "lethalspoons",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[ConsenSys Diligence](https://consensys.net/diligence/)"
+        },
+        {
+          "name": "Alex Stokes",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/AlexStokes_EthereumFoundation.jpeg",
+          "github": "ralexstokes",
+          "twitter": "ralexstokes",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Ethereum Foundation](https://ethereum.org)"
+        },
+        {
+          "name": "Andrej Berlin",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/AndrejBerlin_DeepWork.jpeg",
+          "twitter": "kischiman",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Deep Work](https://deepwork.studio/)"
+        },
+        {
+          "name": "Colin Schwarz",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/ColinSchwarz_ChainSafe.jpg",
+          "github": "ColinSchwarz",
+          "twitter": "colin_schwarz",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[ChainSafe](https:/chainsafe.io)"
+        },
+        {
+          "name": "Dan",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/dan_ryskfinance.jpeg",
+          "github": "ugolino",
+          "twitter": "ugolino_me",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Rysk Finance](https://www.rysk.finance/)"
+        },
+        {
+          "name": "Federico Kunze Küllmer",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Federico_Evmos.jpeg",
+          "github": "fedekunze",
+          "twitter": "fekunze",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Evmos](https://evmos.org/)"
+        },
+        {
+          "name": "Greg The Greek",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/GregTheGreek_ChainSafe.jpeg",
+          "github": "GregTheGreek",
+          "twitter": "GregTheGreek",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[ChainSafe](https:/chainsafe.io)"
+        },
+        {
+          "name": "Markus Waas",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/MarkusWaas_Soliditydeveloper.com.jpg",
+          "github": "gorgos",
+          "twitter": "gorgos",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[soliditydeveloper.com](https://soliditydeveloper.com/)"
+        },
+        {
+          "name": "Nuno Loureiro",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/NunoLoureiro_EthereumFoundation.jpg",
+          "github": "nloureiro",
+          "twitter": "nloureiro",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Ethereum Foundation](https://ethereum.org)"
+        },
+        {
+          "name": "Owen Barnes",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/OwenBarnes_OwenBarnes.com.jpeg",
+          "github": "owenb",
+          "twitter": "temporalwave",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[owenbarnes.com](https://www.owenbarnes.com/)"
+        },
+        {
+          "name": "Pavel Kireyev",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/PavelKireyev_INSEAD.jpg",
+          "twitter": "virtual_markets",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[INSEAD](https://www.insead.edu/)"
+        },
+        {
+          "name": "Pranav Garg",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/PranavGarg_RouterProtocol.jpeg",
+          "github": "PranavGarg01",
+          "twitter": "pranav__garg_",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Router Protocol](https://www.routerprotocol.com/)"
+        },
+        {
+          "name": "Terence",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Terence_Prysm.jpg",
+          "github": "terencechain",
+          "twitter": "terencechain",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Prysmatic Labs](https://prysmaticlabs.com/)"
+        },
+        {
+          "name": "Theo Beutel",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/TheoBeutel_VitaDAO.jpg",
+          "twitter": "theobtl",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[VitaDAO](https://www.vitadao.com/)"
+        },
+        {
+          "name": "Tobias Schubotz",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/TobiasSchubotz_Safe.png",
+          "github": "tschubotz",
+          "twitter": "tschubotz",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Safe](https://gnosis-safe.io/)"
+        },
+        {
+          "name": "Uladzislau Radkevich",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/UladzislauRadkevich_zkDAO.jpg",
+          "github": "vlad324",
+          "twitter": "codeformars",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[zkDAO](https://zkdao.io/)"
+        },
+        {
+          "name": "Willian Mitsuda",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/WillianMitsuda_Otterscan.jpg",
+          "github": "wmitsuda",
+          "twitter": "wmitsuda",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Otterscan](https://github.com/wmitsuda/otterscan)"
+        },
+        {
+          "name": "Will Scott",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/willscott_ProtocolLabs.jpeg",
+          "github": "willscott",
+          "twitter": "willscott",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Protocol Labs](https://protocol.ai/)"
+        },
+        {
+          "name": "Yan Minagawa",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/YanMinagawa_Datanauten.jpeg",
+          "github": "yncyrydybyl",
+          "twitter": "zwodreivierzwo",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Datanauten](https://datanauten.de/)"
+        },
+        {
+          "name": "Zannis",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Zannis_Aave.jpeg",
+          "github": "zannis",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Aave](https://aave.com/)"
+        },
+        {
+          "name": "Zhehao",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Zhehao_0xlab.jpeg",
+          "twitter": "tomzzh1991",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[0x Labs](https://www.0x.org/)"
+        },
+        {
+          "name": "Simon Harman",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/SimonHarman_ChainflipLabs.jpg",
+          "github": "Haafingar",
+          "twitter": "simonaharman",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Chainflip Labs](https://chainflip.io/)"
+        },
+        {
+          "name": "Iryna Nezhynska",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/IrynaNezhynska_DWebCamp-Jolocom.jpg",
+          "twitter": "iranezhynska",
+          "github": "eirena",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[DWebCamp](https://dwebcamp.org/), [Jolocom](https://jolocom.io/)"
+        },
+        {
+          "name": "Dean Eigenmann",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/DeanEigenmann_Dialectic.jpeg",
+          "github": "decanus",
+          "twitter": "deaneigenmann",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Dialectic](https://dialectic.ch/)"
+        },
+        {
+          "name": "Benjamin Shafii",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/BenjaminShafii_DAOnative.jpg",
+          "github": "hotkartoffel",
+          "twitter": "hotkartoffel1",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[DAOnative](https://www.daonative.xyz/)"
+        },
+        {
+          "name": "Barnabé Monnot",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/BarnabeMonnot_EthereumFoundation.jpg",
+          "twitter": "barnabemonnot",
+          "github": "barnabemonnot",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Ethereum Foundation](https://ethereum.org/)"
+        },
+        {
+          "name": "Hany Rizk",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Hany.jpg",
+          "twitter": "hanyrizk_",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[No BS](https://nobsstudio.com/)"
+        },
+        {
+          "name": "Riccardo Biosas",
+          "twitter": "RBiosas",
+          "github": "RiccardoBiosas",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/riccardo_opium_network.jpg",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Opium Network](https://opium.finance/)"
+        },
+        {
+          "name": "Amer Ameen",
+          "github": "amerameen",
+          "twitter": "amer__ameen",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/AmerAmeen_ChainSafe.jpg",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[ChainSafe](https://chainsafe.io/)"
+        },
+        {
+          "name": "Manny",
+          "twitter": "codingwithmanny",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Manny_Polygon.jpeg",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Polygon](https://polygon.technology/)"
+        },
+        {
+          "name": "Jonatan LB",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Jonatan_LB_Inflection.xyz.png",
+          "twitter": "mountbranch",
+          "github": "deerdear",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Inflection](https://inflection.xyz/)"
+        },
+        {
+          "name": "Todd Norton",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/Todd.jpeg",
+          "github": "GhostOfGauss",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Manta Network](https://manta.network/)"
+        },
+        {
+          "name": "Brandon Gomes",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/mentors/brandon.jpeg",
+          "github": "bhgomes",
+          "twitter": "brandonhgomes",
+          "roles": [
+            "mentor"
+          ],
+          "caption": "[Manta Network](https://manta.network/)"
+        },
+        {
+          "name": "Alexandra",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Alexandra.jpeg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Anna",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/anna_bertha.jpeg",
+          "twitter": "anna_brth",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Caspar",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/caspar_schwarz-schilling.jpg",
+          "twitter": "casparschwa",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Hany",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Hany.jpg",
+          "twitter": "hanyrizk_",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "ligi",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/ligi.jpg",
+          "twitter": "mr_ligi",
+          "github": "ligi",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Nichanan",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Nichanan_Kesonpat.jpeg",
+          "twitter": "nichanank",
+          "github": "nichanank",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Afri",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/afri_schoedon.jpeg",
+          "github": "q9f",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Carl",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Carl_Bezzenberger.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Eylon",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Eylon_Aviv.jpeg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Franziska",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/franziska_heintel.jpeg",
+          "twitter": "_franzihei",
+          "github": "franzihei",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Jacob",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/jacob_czepluch.jpeg",
+          "twitter": "_czepluch",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Kaan",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Kaan.jpg",
+          "twitter": "kaanuzdogan",
+          "github": "kuzdogan",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Raul",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Raul.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Rose",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/rose.jpg",
+          "twitter": "roseighteth",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Helena",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Helena.jpg",
+          "twitter": "helsoftroy",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "MP",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/MP.jpg",
+          "twitter": "MPtherealmvp",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Stina",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Stina.jpg",
+          "twitter": "stinalinneag",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Kirill",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Kirill.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Loie",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/team/Loie_Taylor.svg",
+          "twitter": "loie_low",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Mark Nadal",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/MarkNadal_GUN.jpg",
+          "twitter": "marknadal",
+          "github": "amark",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[GUN](https://gun.eco/)"
+        },
+        {
+          "name": "Alec Empire",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/AlecEmpire_AtariTeenageRiot.jpg",
+          "twitter": "ATRiot_",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Atari Teenage Riot](https://www.atari-teenage-riot.com/)"
+        },
+        {
+          "name": "E.G. Galano",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/EG_Galano_Infura.jpeg",
+          "twitter": "egalano",
+          "github": "egalano",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Infura](https://infura.io/)"
+        },
+        {
+          "name": "Jarrad Hope",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/JarradHope_Status.jpg",
+          "twitter": "0xc1c4da",
+          "github": "0xc1c4da",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Status](https://status.im/)"
+        },
+        {
+          "name": "Jaya Klara Brekke",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/JayaBrekke.jpg",
+          "twitter": "jayapapaya",
+          "github": "jayapapaya",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Nym](https://nymtech.net/)"
+        },
+        {
+          "name": "Chelsea Manning",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/ChelseaManning.jpg",
+          "twitter": "xychelsea",
+          "github": "xychelsea",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Nym](https://nymtech.net/)"
+        },
+        {
+          "name": "Frederik Haga",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/frederikHaga.jpg",
+          "twitter": "hagaetc",
+          "github": "hagaetc",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Dune](https://dune.com/)"
+        },
+        {
+          "name": "Nick Almond",
+          "twitter": "drnicka",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/nickAlmond.jpg",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Factory DAO](https://www.factorydao.xyz/)"
+        },
+        {
+          "name": "Evin McMullen",
+          "twitter": "provenauthority",
+          "image": "https://raw.githubusercontent.com/Department-of-Decentralization/3/master/src/assets/people/keynotes/evin.jpg",
+          "roles": [
+            "speaker"
+          ],
+          "caption": "[Disco](https://disco.xyz/)"
+        }
+      ]
     },
     {
       "id": "ethmiami",
@@ -1348,6 +2122,7 @@
       "region": "europe",
       "country": "cz",
       "host_name": "Paralelní Polis",
+      "attendees": 600,
       "venues": [
         {
           "name": "Paralelní Polis",
@@ -1361,7 +2136,34 @@
       "hackathon": {
         "projects": 48,
         "project_submission_platform": "devpost",
-        "project_submission_url": "https://ethprague-2022.devpost.com/"
+        "project_submission_url": "https://ethprague-2022.devpost.com/",
+        "prizes_total": "15000 EUR",
+        "prizes": [
+          {
+            "name": "Sustainability award",
+            "amount": "2500 EUR"
+          },
+          {
+            "name": "Urbanism award",
+            "amount": "2500 EUR"
+          },
+          {
+            "name": "Cryptoeconomics award",
+            "amount": "2500 EUR"
+          },
+          {
+            "name": "Design award",
+            "amount": "2500 EUR"
+          },
+          {
+            "name": "Smart-contract award",
+            "amount": "2500 EUR"
+          },
+          {
+            "name": "Hacker's favourite",
+            "amount": "2500 EUR"
+          }
+        ]
       },
       "aftermovie": "https://www.youtube.com/watch?v=BZ0_NWHcDxQ"
     },
@@ -1520,7 +2322,8 @@
       "attendees": 120,
       "host_name": "Gwei.cz",
       "hackathon": {
-        "hackers": 80,
+        "hackers": 200,
+        "hackers_real": 80,
         "hacker_application_platform": "cryptpad",
         "projects": 13,
         "project_submission_platform": "devfolio",
@@ -1552,7 +2355,450 @@
             "amount": "500 USD"
           }
         ]
-      }
+      },
+      "contributors": [
+        {
+          "name": "Abraham Endre",
+          "caption": "Hackoholic Cryptonaut - Early Ethereum dev and blockchain pioneer",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/silur.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Rachel-Rose O'Leary",
+          "caption": "DarkFi core dev, writer",
+          "twitter": "lunar_mining",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/rachel-oleary.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Nick Almond",
+          "caption": "Building the next generation of DAOs with FactoryDAO",
+          "twitter": "DrNickA",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/nick-almond.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Juraj Bednar",
+          "caption": "Hacktrophy, Hackyourself.io",
+          "twitter": "jurbed",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/juraj-bednar.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Pavol Luptak",
+          "caption": "Nethemba, Hacktrophy, liberation.travel",
+          "twitter": "wilderco",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/pavol-luptak.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "dcbuilder.eth",
+          "caption": "WorldCoin, devpill.me",
+          "twitter": "DCbuild3r",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/dcbuilder.jpg",
+          "roles": [
+            "judge",
+            "advisor",
+            "speaker"
+          ]
+        },
+        {
+          "name": "Artem Vorotnikov",
+          "caption": "Ethereum Core Developer, creator of Akula",
+          "twitter": "vorot93",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/artem-vorotnikov.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Owen Barnes",
+          "caption": "Independent freedom adviser",
+          "twitter": "temporalwave",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/owen-barnes.jpg",
+          "roles": [
+            "speaker",
+            "mentor"
+          ]
+        },
+        {
+          "name": "Willian Mitsuda",
+          "caption": "Creator of Otterscan",
+          "twitter": "wmitsuda",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/william-mitsuda.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Vojtěch Šimetka",
+          "caption": "Blockchain for Humanity, Swarm, Giveth",
+          "twitter": "vojtechsimetka",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/vojtech-simetka.jpg",
+          "roles": [
+            "speaker",
+            "mentor",
+            "judge"
+          ]
+        },
+        {
+          "name": "QEDK",
+          "caption": "Engineering @ Polygon, EthIndia alum, ex-Moonshot Collective",
+          "twitter": "qedk_",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/qedk.jpg",
+          "roles": [
+            "speaker",
+            "mentor"
+          ]
+        },
+        {
+          "name": "Radek Švarz",
+          "caption": "dCZK, Apus.finance, BeerFi dev meetup",
+          "twitter": "radk",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/radek-svarz.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Lauri Peltonen",
+          "caption": "Ethereum & StarkNet @ Equilibrium",
+          "twitter": "lauripelto",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/lauri-peltonen.jpg",
+          "roles": [
+            "speaker",
+            "mentor",
+            "judge"
+          ]
+        },
+        {
+          "name": "Jakub Jedlinský",
+          "caption": "Macroeconomist and analyst - Altlift.cz, lecturer at KMEV VŠE",
+          "twitter": "Jakub_Jedlinsky",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/jakub-jedlinsky.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Steffen Kux",
+          "caption": "Co-founder, researcher, and developer at corpus.ventures",
+          "twitter": "steffenkux",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/steffen-kux.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Max Hampshire",
+          "caption": "Developer Relations for Nym, previously a smart contract developer and researcher",
+          "twitter": "_wjth",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/max-hampshire.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Danish Shabbir",
+          "caption": "Privacy researcher and a fiction writer",
+          "twitter": "fullyfuzuli",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/danish-shabbir.jpg",
+          "roles": [
+            "speaker",
+            "judge"
+          ]
+        },
+        {
+          "name": "Jan Zibner",
+          "caption": "Lawyer specialising in intellectual property law and digital trends @ Artiffine",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/jan-zibner.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "bigq",
+          "caption": "Building new ZK primitives @ Sismo, vyper lover on my spare time",
+          "twitter": "big_q__",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/bigq.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Chris Blec",
+          "caption": "The intersection of Bitcoin, DeFi and Liberty || MakerDAO delegate",
+          "twitter": "ChrisBlec",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/chris-blec.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "six",
+          "caption": "CCTF founder",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/six.jpg",
+          "roles": [
+            "speaker",
+            "judge"
+          ]
+        },
+        {
+          "name": "nikete",
+          "caption": "Curiosity driven. Open science, individual privacy, collective cognition",
+          "twitter": "nikete",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/nikete.jpg",
+          "roles": [
+            "mentor",
+            "speaker"
+          ]
+        },
+        {
+          "name": "Mykola Siusko",
+          "caption": "Web3 fixer | Curing surveillance capitalism",
+          "twitter": "nicksvyaznoy",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/mykola-siusko.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Roman Mazur",
+          "caption": "CEO & Co-founder @ Wido",
+          "twitter": "romanmazur",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/roman-mazur.jpg",
+          "roles": [
+            "speaker",
+            "judge"
+          ]
+        },
+        {
+          "name": "Kurt Opsahl",
+          "caption": "Deputy Executive Director and General Counsel of the Electronic Frontier Foundation (EFF)",
+          "twitter": "kurtopsahl",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/kurt-opsahl.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Robert de Groot",
+          "caption": "Dutch privacy advocate - ecosystem manager @ Swarm, Board member @ Open Signum",
+          "twitter": "robdotrego",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/robert-de-groot.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Anirudha Bose",
+          "caption": "Wallet Engineer at Brave",
+          "twitter": "onybose",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/anirudha-bose.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Felix Leupold",
+          "caption": "Software Engineer. Technical Lead @ CoWSwap",
+          "twitter": "fleupold_",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/felix-leupold.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "Luca",
+          "caption": "Blockchain protocol developer currently working at Kiln",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/luca.jpg",
+          "roles": [
+            "speaker"
+          ]
+        },
+        {
+          "name": "ashhanai",
+          "caption": "builder @ PWN DAO",
+          "twitter": "ashhanai",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/ashhanai.jpg",
+          "roles": [
+            "judge"
+          ]
+        },
+        {
+          "name": "Mario Havel",
+          "caption": "Ethereum Foundation, Bordel Hackerspace",
+          "twitter": "TMIYChao",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/mario-havel.jpg",
+          "roles": [
+            "advisor"
+          ]
+        },
+        {
+          "name": "Josef J",
+          "caption": "ETHPrague, PWN Finance (previously Ethereum Foundation & Devcon)",
+          "twitter": "JosefJ_",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/josef-j.jpg",
+          "roles": [
+            "advisor"
+          ]
+        },
+        {
+          "name": "Anett Rolikova",
+          "caption": "Nethermind, previously Ethereum Magicians",
+          "twitter": "AnettRolikova",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/anett.jpg",
+          "roles": [
+            "advisor",
+            "judge",
+            "speaker"
+          ]
+        },
+        {
+          "name": "Bryce",
+          "caption": "Sponsor & Speaker seeker | Former head of communication for a top 3 DAO, Member of Developer DAO",
+          "twitter": "gabari___",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/gabari.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Hugo",
+          "caption": "Sponsor & Speakers seeker | Software Engineer specialised in Privacy & Decentralized systems, member of Developer DAO",
+          "twitter": "hazae41",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/hazae41.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Victor",
+          "caption": "Sponsors & Speakers seeker | Software Engineer",
+          "twitter": "Heliatr0p",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/victor.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Juan Alberto Abia Alvarez",
+          "caption": "General help | Software engineer with too many side hobbies",
+          "twitter": "juanabia99",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/juan-abia.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Ethan Clime",
+          "caption": "Stage manager | Former DApp CEO and product manager",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/ethan-clime.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Caner Budak",
+          "caption": "General help | Research & Data Analyst in Web3 ecoystem. Former Chairman of ITU Blockchain",
+          "twitter": "caner_eth",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/caner-budak.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Ksenia",
+          "caption": "Registration | Japanese lang. specialist + CZ・ENG・RUS / Artist / Crypto enthusiast / Vibe manager",
+          "twitter": "Fara38643010",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/ksenia.jpg",
+          "roles": [
+            "volunteer"
+          ]
+        },
+        {
+          "name": "Tree",
+          "caption": "Vision, content | Gwei.cz and BohemianDAO founder, Ethereum enthusiast",
+          "twitter": "treecz",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/tree.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Tereza",
+          "caption": "Production, sponsors | Holky v Kryptu co-founder, chairman of UTXO Foundation",
+          "twitter": "terkastarostova",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/tereza.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Exez",
+          "caption": "Visual identity, design",
+          "twitter": "OndraPulc",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/exez.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Adam",
+          "caption": "Website, community calls | Zitrone founder, member of Developer DAO and Forefront",
+          "twitter": "vorcigernix",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/adam.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Hedvika",
+          "caption": "Mentor seeking, experiences curation",
+          "twitter": "HedvikaPa",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/hedvika.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Clairee",
+          "caption": "Social networks",
+          "twitter": "De_luneClaire",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/clairee.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Jacob",
+          "caption": "Networking | Donat.Network, Product Designer & Technologist",
+          "twitter": "jacobjelen",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/jacob.jpg",
+          "roles": [
+            "team"
+          ]
+        },
+        {
+          "name": "Dominika",
+          "caption": "Volunteers",
+          "twitter": "DominikaV5",
+          "image": "https://git.gwei.cz/ethbrno/eb2-website/raw/branch/main/static/photos/contributors/dominika.jpg",
+          "roles": [
+            "team"
+          ]
+        }
+      ]
     },
     {
       "id": "ethmexico",
@@ -1665,7 +2911,7 @@
     },
     {
       "id": "ethsanfrancisco-2022",
-      "name": "ETHSanFrancisco 2023",
+      "name": "ETHSanFrancisco 2022",
       "family": "ethglobal",
       "types": [
         "hackathon",
