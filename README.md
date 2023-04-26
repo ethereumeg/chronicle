@@ -21,7 +21,7 @@ We will be glad to receive any additions or corrections to our events data. Feel
 
 ## Maintainers
 
-- [@burningtree](https://github.com/burningtree) ([@tree:gwei.cz](https://matrix.to/#/@tree:gwei.cz))
+- [\@burningtree](https://github.com/burningtree) ([\@tree:gwei.cz](https://matrix.to/#/@tree:gwei.cz))
 
 ## License
 
