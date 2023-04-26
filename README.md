@@ -8,12 +8,12 @@ future organizers.
 ## Database
 
 The entire database is available as a single JSON:
-- https://chronicle.ethevents.club/data/index.json
+- [chronicle.ethevents.club/data/index.json](https://chronicle.ethevents.club/data/index.json)
 
 ## Frontends
 
 You can use this sites to browse our database:
-- https://ethevents.xyz/ ([open-source](https://github.com/ethereumeg/chronicle-astro-fe))
+- [ethevents.xyz](https://ethevents.xyz/) ([source](https://github.com/ethereumeg/chronicle-astro-fe))
 
 ## Contribute!
 
