@@ -12,7 +12,7 @@ sync:
 	deno run --unstable --allow-read --allow-write --allow-net utils/sync.js $(event)
 
 docs:
-	pandoc -o dist/index.html README.md
+	pandoc -o dist/index.html --from markdown --reference-links README.md
 
 clean:
 	rm -rf dist

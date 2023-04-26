@@ -34,7 +34,7 @@ jobs:
 
       - uses: docker://pandoc/core:2.9
         with:
-          args: "--output=dist/index.html README.md"
+          args: "-o dist/index.html --from markdown --reference-links README.md"
 
       - name: Add custom domain
         run: "touch dist/CNAME && echo \"chronicle.ethevents.club\" >> dist/CNAME"
