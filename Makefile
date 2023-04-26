@@ -11,5 +11,11 @@ build:
 sync:
 	deno run --unstable --allow-read --allow-write --allow-net utils/sync.js $(event)
 
+docs:
+	pandoc -o dist/index.html README.md
+
+clean:
+	rm -rf dist
+
 fmt:
 	deno fmt utils

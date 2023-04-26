@@ -15,7 +15,7 @@ export class Chronicle {
   constructor(options = {}) {
     this.options = options;
     this.srcDir = this.options.srcDir || "./data";
-    this.outputDir = this.options.outputDir || "./dist";
+    this.outputDir = this.options.outputDir || "./dist/data";
     this.schemaDir = this.options.schemaDir || "./schema";
     this.data = {};
     this.schemas = {};

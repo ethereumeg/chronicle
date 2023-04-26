@@ -32,8 +32,12 @@ jobs:
 #      - name: Build changelog
 #        run: make changelog
 
+      - uses: docker://pandoc/core:2.9
+        with:
+          args: "--output=dist/index.html README.md"
+
       - name: Add custom domain
-        run: "touch dist/CNAME && echo \"data.chronicle.ethevents.club\" >> dist/CNAME"
+        run: "touch dist/CNAME && echo \"chronicle.ethevents.club\" >> dist/CNAME"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
