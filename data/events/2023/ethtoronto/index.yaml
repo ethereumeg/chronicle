@@ -1,0 +1,10 @@
+name: ETHToronto
+series: ethtoronto
+types: [ conference ]
+date: "2023-08-13"
+days: 4
+place: Toronto
+region: us-ca
+country: ca
+links:
+  web: https://www.ethtoronto.ca/

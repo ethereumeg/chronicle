@@ -1,0 +1,9 @@
+name: ETHVenice
+types: [ conference ]
+date: "2023-10-20"
+days: 3
+place: Venice
+region: europe
+country: it
+links:
+  web: https://ethvenice.com/

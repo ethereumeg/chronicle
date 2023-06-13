@@ -1,0 +1,10 @@
+name: ETH Montréal
+series: ethbrussels
+types: [ conference ]
+date: "2023-09-18"
+days: 4
+place: Montréal
+region: us-ca
+country: ca
+links:
+  web: https://ethmontreal.xyz

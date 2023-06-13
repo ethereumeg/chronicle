@@ -1,0 +1,10 @@
+name: ETHcon Korea
+series: ethbrussels
+types: [ conference ]
+date: "2023-09-01"
+days: 3
+place: Seoul
+region: asia
+country: kr
+links:
+  web: https://ethcon.kr/

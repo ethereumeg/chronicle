@@ -1,0 +1,10 @@
+name: AB-Summit
+series: ethbrussels
+types: [ conference ]
+date: "2023-08-26"
+days: 2
+place: Accra
+region: africa
+country: gh
+links:
+  web: https://blockchainsummit.africa
