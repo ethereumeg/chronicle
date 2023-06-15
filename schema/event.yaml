@@ -23,7 +23,7 @@ properties:
     pattern: "^[a-z0-9-]+$"
   family:
     type: string
-    pattern: "^[a-z0-9-]+$"    
+    pattern: "^[a-z0-9-]+$"
   types:
     type: array
     items:
@@ -44,7 +44,7 @@ properties:
     enum:
       - europe
       - asia
-      - north-america
+      - south-america
       - us-ca
       - latam
       - africa

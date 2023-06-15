@@ -1,0 +1,10 @@
+name: ETHAccra
+series: ethbrussels
+types: [ conference ]
+date: "2023-09-07"
+days: 3
+place: Accra
+region: africa
+country: gh
+links:
+  web: https://www.ethaccra.xyz/
