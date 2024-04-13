@@ -32,3 +32,7 @@ hackathon:
       amount: 2000 USD
     - name: "Canoe: Privacy Scaling Exploration Semaphore/Bandada"
       amount: 2000 USD
+contributors:
+  - name: Oasis Network
+    twitter: https://twitter.com/OasisProtocol
+    github: https://github.com/oasisprotocol
