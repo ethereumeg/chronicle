@@ -7,3 +7,7 @@ place: Berlin
 region: europe
 country: de
 attendees: 900
+contributors:
+  - name: Oasis Network
+    twitter: https://twitter.com/OasisProtocol
+    github: https://github.com/oasisprotocol
