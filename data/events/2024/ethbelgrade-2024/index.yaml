@@ -11,3 +11,7 @@ hackathon:
   hackers: 90
 links:
   web: https://ethbelgrade.rs/
+contributors:
+  - name: Oasis Network
+    twitter: https://twitter.com/OasisProtocol
+    github: https://github.com/oasisprotocol
