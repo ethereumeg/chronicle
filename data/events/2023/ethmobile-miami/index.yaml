@@ -3,7 +3,7 @@ types: [ conference ]
 date: "2023-09-15"
 days: 3
 place: Miami
-region: us0-ca
+region: us-ca
 country: us
 links:
   web: https://www.ethmiami.ooo/
