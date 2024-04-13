@@ -1,0 +1,10 @@
+name: ETHToronto
+series: ethtoronto
+types: [ conference, hackathon ]
+date: "2022-08-08"
+days: 3
+place: Toronto
+region: us-ca
+country: ca
+links:
+  telegram: https://t.me/ethtoronto2022
