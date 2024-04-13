@@ -16,19 +16,19 @@ hackathon:
   hackers: 254
   bounties_total: 30000 USD
   bounties:
-    - name: Battleship: Oasis Network
+    - name: "Battleship: Oasis Network"
       amount: 12000 USD
-    - name: Jet Ski: Near
+    - name: "Jet Ski: Near"
       amount: 6000 USD
-    - name: Canoe: Waku
+    - name: "Canoe: Waku"
       amount: 2000 USD
-    - name: Canoe: Trail of Bits
+    - name: "Canoe: Trail of Bits"
       amount: 2000 USD
-    - name: Canoe: Threshold
+    - name: "Canoe: Threshold"
       amount: 2000 USD
-    - name: Canoe: Privacy Scaling Exploration MACI
+    - name: "Canoe: Privacy Scaling Exploration MACI"
       amount: 2000 USD
-    - name: Canoe: Privacy Scaling Exploration TLSNotary
+    - name: "Canoe: Privacy Scaling Exploration TLSNotary"
       amount: 2000 USD
-    - name: Canoe: Privacy Scaling Exploration Semaphore/Bandada
+    - name: "Canoe: Privacy Scaling Exploration Semaphore/Bandada"
       amount: 2000 USD
