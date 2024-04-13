@@ -1,0 +1,13 @@
+name: DappCon 2024
+series: dappcon
+types: [ conference ]
+date: "2024-05-21"
+days: 3
+place: Berlin
+region: europe
+country: de
+attendees: 900
+contributors:
+  - name: Oasis Network
+    twitter: OasisProtocol
+    github: oasisprotocol

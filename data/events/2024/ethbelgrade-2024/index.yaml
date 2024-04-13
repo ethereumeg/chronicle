@@ -1,0 +1,17 @@
+name: ETHBelgrade 2024
+series: ethbelgrade
+types: [ conference, hackathon ]
+date: "2024-06-03"
+days: 3
+place: Belgrade
+region: europe
+country: rs
+attendees: 1000
+hackathon:
+  hackers: 90
+links:
+  web: https://ethbelgrade.rs/
+contributors:
+  - name: Oasis Network
+    twitter: OasisProtocol
+    github: oasisprotocol
